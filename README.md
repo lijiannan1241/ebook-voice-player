@@ -75,6 +75,9 @@ Found a bug or have a feature request? We'd love to hear from you!
 - ⭐ **Star this repo** if you find it useful!
 
 ---
+![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-Download-blue?logo=microsoft)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?logo=windows)
+![Rating](https://img.shields.io/badge/Rating-4.5%2F5-yellow)
 
 ## 📄 License
 
