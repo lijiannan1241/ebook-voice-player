@@ -1,5 +1,3 @@
-# ebook-voice-player
-A lightweight Windows TTS ebook reader for EPUB, PDF, and TXT files. Available on Microsoft Store.
 <div align="center">
   <img src="assets/logo.png" alt="Ebook Voice Player Logo" width="150" />
   <h1>Ebook Voice Player — Text To Speech Ebook Reader</h1>
@@ -10,6 +8,10 @@ A lightweight Windows TTS ebook reader for EPUB, PDF, and TXT files. Available o
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?logo=windows" alt="Platform" />
   <img src="https://img.shields.io/badge/License-Free%20App-green" alt="License" />
+  <br />
+  ![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-Download-blue?logo=microsoft)
+  ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?logo=windows)
+  ![Rating](https://img.shields.io/badge/Rating-4.5%2F5-yellow)
 </div>
 
 ---
@@ -18,10 +20,13 @@ A lightweight Windows TTS ebook reader for EPUB, PDF, and TXT files. Available o
 
 **Ebook Voice Player** is a lightweight Windows application that reads your ebooks aloud using natural text-to-speech voices. Instead of staring at a screen, you can listen to EPUB, PDF, and TXT files while commuting, exercising, or relaxing.
 
+**Global Voices & Languages:** Supports voices from over 50 countries (including Mandarin, English, Japanese, German, French, etc.) with more than 200 different voice options to choose from.
+
 ### ✨ Key Features
 
 - **Multi-format support** — Opens EPUB, PDF, and TXT ebook files
-- **Natural TTS voices** — Uses Windows built-in high-quality speech synthesis
+- **Global Language Support** — Voices from over 50 countries, including Mandarin, English, Japanese, German, French, and more
+- **200+ Voice Options** — Choose from over 200 different voice options for a personalized listening experience
 - **Playback control** — Adjust speed, pause, resume, and skip paragraphs
 - **Lightweight & native** — Built for Windows 10/11, no browser required
 - **Privacy-first** — All processing happens locally on your device
@@ -63,6 +68,7 @@ A lightweight Windows TTS ebook reader for EPUB, PDF, and TXT files. Available o
 | PDF support | ✅ | ❌ | ⚠️ |
 | Native Windows app | ✅ | ❌ | ✅ |
 | Free | ✅ | ✅ | ❌ |
+| 200+ Voices & 50+ Countries | ✅ | ❌ | ⚠️ |
 
 ---
 
@@ -75,9 +81,6 @@ Found a bug or have a feature request? We'd love to hear from you!
 - ⭐ **Star this repo** if you find it useful!
 
 ---
-![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-Download-blue?logo=microsoft)
-![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?logo=windows)
-![Rating](https://img.shields.io/badge/Rating-4.5%2F5-yellow)
 
 ## 📄 License
 
