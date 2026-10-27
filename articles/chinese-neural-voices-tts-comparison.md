@@ -3,6 +3,7 @@ layout: default
 title: "中文神经网络语音朗读软件：300+语音晓晓云希随心选，告别机械音"
 description: "深度体验微软Edge TTS中文语音库：晓晓、云希、云扬、晓伊、云夏等10+中文语音实测对比。从新闻播报、有声书、情感朗读、方言切换四大场景挑选最适合的语音。Ebook Voice Player原生集成，无需配置SAPI5语音包。"
 lang: zh-Hans
+hreflang_en: "/articles/chinese-neural-voices-tts-comparison/"
 og_title: "中文神经网络语音朗读软件：300+语音晓晓云希随心选"
 og_description: "实测微软Edge TTS 10+中文神经网络语音：晓晓通用、云希新闻、云扬故事、晓伊情感。按场景选声，告别机械音，Ebook Voice Player原生集成开箱即用。"
 ---

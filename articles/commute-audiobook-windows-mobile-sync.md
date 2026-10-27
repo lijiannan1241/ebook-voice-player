@@ -3,6 +3,7 @@ layout: default
 title: "通勤路上听书神器：Windows整理书库导出MP3，手机离线随时听"
 description: "上班族通勤听书完整方案：电脑端Ebook Voice Player批量导入EPUB/PDF/电子书 → 按章节导出MP3 → 手机端Smart AudioBook Player/Apple Books离线播放。支持倍速、睡眠定时、书签同步、跨设备进度保持。"
 lang: zh-Hans
+hreflang_en: "/articles/commute-audiobook-windows-mobile-sync/"
 og_title: "通勤听书神器：Windows整理书库导出MP3手机离线听"
 og_description: "上班族实测：电脑端批量导入电子书→按章导出MP3→手机离线听。支持倍速、定时、书签，地铁公交不怕没信号，一套流程搞定通勤听书自由。"
 ---

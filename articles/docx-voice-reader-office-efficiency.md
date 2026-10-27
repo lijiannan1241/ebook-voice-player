@@ -3,6 +3,7 @@ layout: default
 title: "DOCX文档语音朗读办公神器：合同报告方案听完不费眼，倍速通勤刷完"
 description: "职场人实测：Word文档(DOCX)拖入Ebook Voice Player秒变有声书。保留标题层级、表格文本、代码块、批注。支持章节跳转、书签笔记、MP3导出带走听。合同审核、研报速读、方案评审、会议纪要整理，办公效率提升 3 倍。"
 lang: zh-Hans
+hreflang_en: "/articles/docx-voice-reader-office-efficiency/"
 og_title: "DOCX文档语音朗读办公神器：合同报告方案听完不费眼"
 og_description: "Word文档秒变有声书：保留标题层级/表格/代码/批注，章节跳转、书签笔记、MP3导出。合同审核、研报速读、方案评审效率提升3倍。免费试用无广告。"
 ---

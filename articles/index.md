@@ -3,6 +3,7 @@ layout: default
 title: "Ebook Voice Player 深度使用指南合集：从选软件到精通的 10 篇实战教程"
 description: "Ebook Voice Player 官方深度指南合集：Windows电子书朗读软件对比、EPUB转MP3离线听书、PDF语音朗读、中文神经网络语音选声、通勤听书方案、英语学习自制听力、老年人大字听书、DOCX办公文档听书、睡前助眠定时器、隐私优先本地阅读。10大场景全覆盖，收藏即用。"
 lang: zh-Hans
+hreflang_en: "/articles/"
 og_title: "Ebook Voice Player 深度指南合集：10大场景实战教程全覆盖"
 og_description: "官方出品10篇深度实战：软件对比避坑、EPUB/PDF转MP3、语音选声、通勤/英语/助眠/办公/老年/隐私10大场景全覆盖。收藏这篇等于收藏全套使用手册。"
 ---

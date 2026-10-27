@@ -3,6 +3,7 @@ layout: default
 title: "视力不好/老年人看书神器：大字体+语音同步，Windows上最省心的阅读辅助"
 description: "针对低视力、老花眼、阅读疲劳人群：Ebook Voice Player提供字号/行距/段距独立调节、语音同步高亮、一键导出MP3给长辈手机听。无广告、无账号、无复杂设置，安装即用。附老人机/功能机传输方案。"
 lang: zh-Hans
+hreflang_en: "/articles/low-vision-elderly-reading-assistant/"
 og_title: "视力不好老年人看书神器：大字体语音同步Windows阅读辅助"
 og_description: "低视力/老花眼/阅读疲劳救星：字号行距随心调、语音同步高亮、一键导出MP3给长辈手机。无广告无账号无复杂设置，安装即用。附老人机传输方案。"
 ---

@@ -3,6 +3,7 @@ layout: default
 title: "如何把EPUB转成MP3在手机听？零成本离线听书全流程实操"
 description: "手把手教你用Ebook Voice Player把EPUB电子书转成MP3：章节拆分、语速调节、静音裁剪、手机传输全流程。无需在线转换网站、无隐私泄露、无广告水印，适合通勤、运动、睡前离线听书。"
 lang: zh-Hans
+hreflang_en: "/articles/epub-to-mp3-offline-listening/"
 og_title: "EPUB转MP3离线听书全流程：零成本、护隐私、无广告"
 og_description: "详细图文教程：用Ebook Voice Player把EPUB按章节导出MP3，支持语速调节、静音裁剪，手机传输即听。适合通勤党、跑步党、护眼党。"
 ---

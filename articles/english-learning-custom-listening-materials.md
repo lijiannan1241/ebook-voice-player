@@ -3,6 +3,7 @@ layout: default
 title: "英语学习自制听力材料：TXT/EPUB原版书转MP3，语速可调、段落可复听"
 description: "英语学习者实测：用Ebook Voice Player把英文原版电子书(EPUB/TXT/PDF)转成可调语速MP3。支持Aria/Guy/Jenny等英语神经网络语音，0.5-3.0倍语速自由调，段落高亮跟读、单句循环、生词标注、批量导出练听力。"
 lang: zh-Hans
+hreflang_en: "/articles/english-learning-custom-listening-materials/"
 og_title: "英语学习自制听力：原版书转MP3语速可调段落可复读"
 og_description: "告别买不到合适听力材料：英文原版书一键转MP3，Aria/Guy/Jenny原生英语语音，0.5-3.0倍语速，段落高亮跟读、单句循环、批量导出。雅思托福GRE自制教材神器。"
 ---

@@ -10,10 +10,16 @@
   <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}/">
   <link rel="alternate" hreflang="zh-Hans" href="{{ site.url }}{{ site.baseurl }}/zh/">
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}/">
+  {% if page.hreflang_en %}
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}{{ page.hreflang_en }}">
+  {% endif %}
   {% else %}
   <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}/">
   <link rel="alternate" hreflang="zh-Hans" href="{{ site.url }}{{ site.baseurl }}/zh/">
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}/">
+  {% if page.hreflang_zh %}
+  <link rel="alternate" hreflang="zh-Hans" href="{{ site.url }}{{ site.baseurl }}{{ page.hreflang_zh }}">
+  {% endif %}
   {% endif %}
   <meta name="robots" content="{{ page.robots | default: 'index, follow, max-image-preview:large, max-snippet:-1' }}">
   <meta name="author" content="{{ site.publisher }}">

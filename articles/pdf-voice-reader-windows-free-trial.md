@@ -3,6 +3,7 @@ layout: default
 title: "PDF语音朗读软件Windows免费试用：论文报告合同听完不费眼"
 description: "针对PDF文档多的科研/职场人群，实测对比Windows平台PDF朗读方案：Ebook Voice Player、Edge、Adobe Reader、SumatraPDF。重点解决扫描版PDF无法朗读、公式代码读不清、长文档定位难三大痛点。"
 lang: zh-Hans
+hreflang_en: "/articles/pdf-voice-reader-windows-free-trial/"
 og_title: "PDF语音朗读软件Windows免费试用：论文报告合同听完不费眼"
 og_description: "科研/职场党实测：PDF文档语音朗读避坑指南。扫描版怎么听？公式代码怎么处理？长文档怎么定位？附免费试用方案对比表。"
 ---

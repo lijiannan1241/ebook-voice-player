@@ -3,6 +3,7 @@ layout: default
 title: "睡前听书定时关闭神器：Windows端睡眠定时器+进度保存，醒来接着听不丢章节"
 description: "失眠党/睡前听书党实测：Ebook Voice Player内置睡眠定时器（5-120分钟/章节数/书签处）、自动淡出停止、进度精准保存、醒来自动恢复播放位置。配合大字护眼模式、慢速温柔语音（晓伊/晓琪）、导出MP3传手机/老人机，打造完美助眠听书体验。"
 lang: zh-Hans
+hreflang_en: "/articles/sleep-timer-audiobook-assistant/"
 og_title: "睡前听书定时关闭神器：睡眠定时器+进度保存，醒来接着听"
 og_description: "失眠党必备：睡眠定时器5-120分钟/章节数/书签处自动停止、淡出不惊醒、进度精准保存、醒来自动恢复。配合慢速温柔语音、护眼模式、MP3导出离线听。免费试用无广告。"
 ---
