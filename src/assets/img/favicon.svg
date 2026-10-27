@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ebook Voice Player">
+  <rect width="64" height="64" rx="14" fill="#101726"/>
+  <path d="M14 15.5A3.5 3.5 0 0 1 17.5 12H48v35H17.5A3.5 3.5 0 0 0 14 50.5z" fill="#f6f1e6"/>
+  <path d="M22 22h16M22 29h12" stroke="#101726" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M43 33v14M50 38v6" stroke="#e0a33e" stroke-width="3.6" stroke-linecap="round"/>
+</svg>

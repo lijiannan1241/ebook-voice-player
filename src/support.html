@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Support — {{APP_NAME}}</title>
+<meta name="description" content="Help for Ebook Voice Player: system requirements, fixing missing audio, supported formats, MP3 export, interface language and contact options.">
+<link rel="canonical" href="{{SITE_URL}}support.html">
+<link rel="alternate" hreflang="en" href="{{SITE_URL}}support.html">
+<link rel="alternate" hreflang="x-default" href="{{SITE_URL}}support.html">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#f6f1e6">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="{{APP_NAME}}">
+<meta property="og:title" content="Support — {{APP_NAME}}">
+<meta property="og:description" content="System requirements, troubleshooting and contact options for Ebook Voice Player.">
+<meta property="og:url" content="{{SITE_URL}}support.html">
+<meta property="og:image" content="{{OG_IMAGE}}">
+<meta property="og:locale" content="en_US">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/img/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="stylesheet" href="assets/css/styles.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "{{SITE_URL}}support.html#webpage",
+      "url": "{{SITE_URL}}support.html",
+      "name": "Support — {{APP_NAME}}",
+      "inLanguage": "en",
+      "isPartOf": { "@id": "{{SITE_URL}}#website" },
+      "about": { "@id": "{{SITE_URL}}#app" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}" },
+        { "@type": "ListItem", "position": 2, "name": "Support" }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="./" aria-label="{{APP_NAME}} home">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 24 24" role="presentation"><path d="M5 5.5A1.5 1.5 0 0 1 6.5 4H19v14H6.5A1.5 1.5 0 0 0 5 19.5z" fill="#f6f1e6"/><path d="M8 8h7M8 11h5" stroke="#101726" stroke-width="1.6" stroke-linecap="round"/><path d="M17.5 13.5v5" stroke="#e0a33e" stroke-width="2" stroke-linecap="round"/><path d="M20 12v8" stroke="#e0a33e" stroke-width="2" stroke-linecap="round"/></svg>
+      </span>
+      {{APP_NAME}}
+    </a>
+
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open menu">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+
+    <nav class="site-nav" id="site-nav" aria-label="Main">
+      <a href="index.html#features">Features</a>
+      <a href="index.html#faq">FAQ</a>
+      <a href="support.html" aria-current="page">Support</a>
+      <span class="lang-switch" aria-label="Language">
+        <a href="{{SITE_URL}}" hreflang="en" lang="en">EN</a>
+        <a href="{{SITE_URL}}zh/" hreflang="zh-Hans" lang="zh-Hans">中文</a>
+      </span>
+      <a class="btn btn-primary" href="{{STORE_URL}}" rel="noopener">Get the app</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="page-hero">
+    <div class="container">
+      <p class="eyebrow"><span class="dot" aria-hidden="true"></span> Help centre</p>
+      <h1>Support</h1>
+      <p>Short answers to the problems that come up most often. For app-specific issues, the Microsoft Store product page is the fastest route to the publisher.</p>
+    </div>
+  </section>
+
+  <section class="page-body">
+    <div class="container">
+      <div class="prose">
+        <h2>Getting started</h2>
+        <ol>
+          <li>Install {{APP_NAME}} from the Microsoft Store and open it.</li>
+          <li>Choose <strong>File → Open book</strong> and select a TXT, DOCX, PDF, EPUB or HTML file.</li>
+          <li>Pick a voice in the voice panel and set the speed you like.</li>
+          <li>Press play, or click any paragraph to start reading from there.</li>
+        </ol>
+
+        <h2>System requirements</h2>
+        <ul>
+          <li>Windows 10 version 1809 (build 17763) or later, or Windows 11</li>
+          <li>x64 processor</li>
+          <li>An internet connection for speech synthesis</li>
+          <li>An audio output device</li>
+        </ul>
+        <p>The app is installed as a signed MSIX package. Updates are delivered through the Microsoft Store.</p>
+
+        <h2>No sound when I press play</h2>
+        <ul>
+          <li>Check that the correct output device is selected in Windows and that the volume is not muted.</li>
+          <li>Confirm the computer is online. Speech is generated by an online service, so playback stops without a connection.</li>
+          <li>Try a different voice. If one voice fails and another works, the issue is with that voice on the service side.</li>
+          <li>Close and reopen the app, then try the same paragraph again.</li>
+        </ul>
+
+        <h2>A book will not open or looks empty</h2>
+        <ul>
+          <li><strong>DRM-protected</strong> EPUB and PDF files cannot be opened. Use a DRM-free copy.</li>
+          <li>A PDF that contains only scanned page images has no text layer to read. Ebook Voice Player does not perform OCR.</li>
+          <li>Very large books can take a few seconds to parse. Wait for the chapter list to appear before pressing play.</li>
+          <li>If the layout looks wrong, try re-opening the file; if it persists, the file structure may be unusual.</li>
+        </ul>
+
+        <h2>Where are exported MP3 files saved?</h2>
+        <p>Exports are written to the folder you choose in the export dialog. If you cannot find a file, search for the book title in File Explorer or export again and note the destination folder.</p>
+
+        <h2>How do I change the interface language?</h2>
+        <p>Open the <strong>Language</strong> menu and choose English or 简体中文. The change applies immediately and is remembered for the next session.</p>
+
+        <h2>How do I remove my data?</h2>
+        <p>Books are not copied into the app; they stay wherever you opened them. Settings, bookmarks, notes and the speech cache are stored in your Windows user profile. Uninstalling the app removes the program; to remove the remaining data, delete the app's data folder under <code>%APPDATA%</code> after uninstalling.</p>
+
+        <h2>Contact</h2>
+        <p>For installation problems, refunds or account questions, use the support link on the {{APP_NAME}} product page in the Microsoft Store. When reporting a problem, include the app version ({{APP_VERSION}}), your Windows version, the book format, and what you expected to happen.</p>
+        <p><a class="btn btn-primary" href="{{STORE_URL}}" rel="noopener">Open the Microsoft Store page</a></p>
+
+        <h2>Privacy</h2>
+        <p>Read the <a href="privacy.html">privacy policy</a> for details on what stays on your device and what is sent to the speech service.</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <p>© {{YEAR}} {{PUBLISHER}}. {{APP_NAME}} version {{APP_VERSION}}.</p>
+      <p><a href="./">Home</a> · <a href="privacy.html">Privacy</a> · <a href="llms.txt">llms.txt</a></p>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/js/main.js" defer></script>
+</body>
+</html>

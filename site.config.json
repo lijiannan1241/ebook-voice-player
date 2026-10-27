@@ -1,0 +1,16 @@
+{
+  "siteUrl": "https://lijiannan1241.github.io/ebook-voice-player/",
+  "customDomain": "",
+  "appName": "Ebook Voice Player",
+  "appVersion": "1.0.1.0",
+  "publisher": "nannan2008",
+  "storeUrl": "https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS",
+  "repoUrl": "https://github.com/lijiannan1241/ebook-voice-player",
+  "defaultLocale": "en",
+  "pages": [
+    { "path": "", "changefreq": "monthly", "priority": "1.0", "locale": "en" },
+    { "path": "zh/", "changefreq": "monthly", "priority": "0.9", "locale": "zh-Hans" },
+    { "path": "support.html", "changefreq": "yearly", "priority": "0.5", "locale": "en" },
+    { "path": "privacy.html", "changefreq": "yearly", "priority": "0.4", "locale": "en" }
+  ]
+}

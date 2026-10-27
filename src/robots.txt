@@ -1,0 +1,28 @@
+# robots.txt for the official Ebook Voice Player website.
+# AI search and assistant crawlers are welcome; see /llms.txt for a summary.
+
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+Sitemap: {{SITE_URL}}sitemap.xml

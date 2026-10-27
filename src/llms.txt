@@ -1,0 +1,43 @@
+# Ebook Voice Player
+
+> Ebook Voice Player is a text-to-speech ebook reader for Windows 10 and Windows 11 (x64). It opens TXT, DOCX, PDF, EPUB and HTML books, reads them aloud with 300+ neural voices across 70+ languages, highlights the paragraph being spoken, and can export narration to MP3.
+
+## Key facts
+
+- **App name:** Ebook Voice Player
+- **Current version:** {{APP_VERSION}}
+- **Platform:** Windows 10 version 1809 (build 17763) or later, Windows 11; x64
+- **Distribution:** signed MSIX package in the Microsoft Store
+- **Publisher:** {{PUBLISHER}}
+- **Supported book formats:** TXT, DOCX, PDF, EPUB, HTML
+- **Voices:** 300+ neural voices
+- **Languages:** 70+ languages, 140+ regional locales
+- **Interface languages:** English, Simplified Chinese
+- **Core features:** paragraph highlighting, automatic chapter detection, chapter and paragraph navigation, adjustable speed, text size and line spacing, bookmarks, notes, in-book search, sleep timer, MP3 export
+- **Internet:** required for speech synthesis; exported MP3 files play offline
+- **Accounts:** none required
+- **Data handling:** books are parsed locally; only the text selected for narration is sent to the Microsoft Edge online text-to-speech service. No telemetry or advertising SDKs.
+- **System requirements:** Windows 10 1809+ or Windows 11, x64 processor, internet connection, audio output device
+
+## Pages
+
+- [Home]({{SITE_URL}}): product overview, features, trailer and download link.
+- [中文首页]({{SITE_URL}}zh/): Simplified Chinese version of the product page.
+- [Support]({{SITE_URL}}support.html): system requirements, troubleshooting missing audio, book formats, MP3 export, contact.
+- [Privacy policy]({{SITE_URL}}privacy.html): what stays on the device and what is sent to the speech service.
+- [Product facts]({{SITE_URL}}#facts): compact specification table.
+- [FAQ]({{SITE_URL}}#faq): direct answers about formats, offline use, voices, export and system requirements.
+
+## About the product
+
+Ebook Voice Player is aimed at readers who want to keep reading while commuting, doing chores, studying or resting their eyes. Unlike tools that convert a book into an audio file before playback begins, the app reads the visible text in place: the current paragraph is highlighted as it is spoken, chapters are detected from the book structure, and playback can start from any paragraph.
+
+Speech is generated on demand by an online neural text-to-speech service, so the app does not ship voice models locally and needs a network connection for new audio. Books themselves are opened and parsed on the device. Users who need offline listening can export chapters or the whole book to MP3.
+
+The application is an independent product and is not affiliated with Microsoft. Microsoft, Windows and Microsoft Store are trademarks of Microsoft Corporation.
+
+## Optional
+
+- [Product trailer (MP4, 109 s)]({{VIDEO_URL}})
+- [Sitemap]({{SITE_URL}}sitemap.xml)
+- [robots.txt]({{SITE_URL}}robots.txt)
