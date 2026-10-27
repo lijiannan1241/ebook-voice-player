@@ -30,70 +30,70 @@ og_description: "Official 10 Deep-Dives: Software Comparison, EPUB/PDF→MP3, Vo
         <tbody>
           <tr>
             <td>01</td>
-            <td><a href="/articles/windows-ebook-reader-tts-comparison.en/"><strong>Best Windows Ebook Reader with TTS</strong><br>2026 Hands-on Comparison & Pitfall Guide</a></td>
+            <td><a href="{{ site.baseurl }}/articles/windows-ebook-reader-tts-comparison.en/"><strong>Best Windows Ebook Reader with TTS</strong><br>2026 Hands-on Comparison & Pitfall Guide</a></td>
             <td>Pick Without Regrets: Voice Quality, Format Support, Export, Privacy — 4-Dimension Review</td>
             <td>All Windows Users, New to TTS Readers</td>
             <td>≈ 8 Min</td>
           </tr>
           <tr>
             <td>02</td>
-            <td><a href="/articles/epub-to-mp3-offline-listening.en/"><strong>How to Convert EPUB to MP3 for Offline Mobile Listening</strong><br>Zero-Cost, Privacy-Safe Workflow</a></td>
+            <td><a href="{{ site.baseurl }}/articles/epub-to-mp3-offline-listening.en/"><strong>How to Convert EPUB to MP3 for Offline Mobile Listening</strong><br>Zero-Cost, Privacy-Safe Workflow</a></td>
             <td>EPUB → Chapter MP3 → Phone Offline. Avoid Online Converter Privacy Traps.</td>
             <td>Commuters, Runners, Want Audiobooks Portable</td>
             <td>≈ 6 Min</td>
           </tr>
           <tr>
             <td>03</td>
-            <td><a href="/articles/pdf-voice-reader-windows-free-trial.en/"><strong>Best PDF Voice Reader for Windows (Free Trial)</strong><br>Papers, Reports, Contracts Hands-Free</a></td>
+            <td><a href="{{ site.baseurl }}/articles/pdf-voice-reader-windows-free-trial.en/"><strong>Best PDF Voice Reader for Windows (Free Trial)</strong><br>Papers, Reports, Contracts Hands-Free</a></td>
             <td>Scanned PDF OCR? Formula/Code Reading? Long Doc Navigation? Solved.</td>
             <td>Researchers, Legal/Biz, Heavy Tech Doc Readers</td>
             <td>≈ 7 Min</td>
           </tr>
           <tr>
             <td>04</td>
-            <td><a href="/articles/chinese-neural-voices-tts-comparison.en/"><strong>Best Chinese Neural TTS Voices for Ebook Reading</strong><br>10+ Voices Tested (Xiaoxiao, Yunxi, Yunyang, Xiaoyi...)</a></td>
+            <td><a href="{{ site.baseurl }}/articles/chinese-neural-voices-tts-comparison.en/"><strong>Best Chinese Neural TTS Voices for Ebook Reading</strong><br>10+ Voices Tested (Xiaoxiao, Yunxi, Yunyang, Xiaoyi...)</a></td>
             <td>Xiaoxiao/Yunxi/Yunyang/Xiaoyi/Yunjian... Scene-Based Pick. Bye Robotic Voices.</td>
             <td>Audio Quality Seekers, Audiobook Makers, Dialect Needs</td>
             <td>≈ 5 Min</td>
           </tr>
           <tr>
             <td>05</td>
-            <td><a href="/articles/commute-audiobook-windows-mobile-sync.en/"><strong>Commute Audiobook Setup</strong><br>Windows Library → MP3 Export → Phone Offline Playback</a></td>
+            <td><a href="{{ site.baseurl }}/articles/commute-audiobook-windows-mobile-sync.en/"><strong>Commute Audiobook Setup</strong><br>Windows Library → MP3 Export → Phone Offline Playback</a></td>
             <td>PC Heavy Lifting (Batch Export) + Phone Light Play (Speed/Timer/Bookmarks) = Commute Freedom</td>
             <td>Office Workers, Students, Daily 1-2hr Commute</td>
             <td>≈ 6 Min</td>
           </tr>
           <tr>
             <td>06</td>
-            <td><a href="/articles/english-learning-custom-listening-materials.en/"><strong>DIY English Listening Materials</strong><br>Original Books → MP3, Speed Control, Sentence Loop</a></td>
+            <td><a href="{{ site.baseurl }}/articles/english-learning-custom-listening-materials.en/"><strong>DIY English Listening Materials</strong><br>Original Books → MP3, Speed Control, Sentence Loop</a></td>
             <td>Aria/Guy/Jenny/Sonia Voices + 0.7× Intensive/1.3× Extensive/Sentence Loop/Vocab→Anki</td>
             <td>IELTS/TOEFL/GRE Prep, Extensive/Intensive, Shadowing</td>
             <td>≈ 8 Min</td>
           </tr>
           <tr>
             <td>07</td>
-            <td><a href="/articles/low-vision-elderly-reading-assistant.en/"><strong>Best Reading Aid for Low Vision & Elderly</strong><br>Large Font + Voice Sync Windows</a></td>
+            <td><a href="{{ site.baseurl }}/articles/low-vision-elderly-reading-assistant.en/"><strong>Best Reading Aid for Low Vision & Elderly</strong><br>Large Font + Voice Sync Windows</a></td>
             <td>Font 36px/Line 2.2/High Contrast + Slow Xiaoyi Voice + MP3 Export for Feature Phones</td>
             <td>Low Vision, Presbyopia, Buying for Parents, Reading Fatigue</td>
             <td>≈ 7 Min</td>
           </tr>
           <tr>
             <td>08</td>
-            <td><a href="/articles/docx-voice-reader-office-efficiency.en/"><strong>DOCX Voice Reader for Office</strong><br>Contracts, Reports, Proposals Hands-Free, 3× Efficiency</a></td>
+            <td><a href="{{ site.baseurl }}/articles/docx-voice-reader-office-efficiency.en/"><strong>DOCX Voice Reader for Office</strong><br>Contracts, Reports, Proposals Hands-Free, 3× Efficiency</a></td>
             <td>Word Docs Keep Structure → Chapter Jump/Bookmarks/Notes/MP3 Export. Office Reading 3× Faster.</td>
             <td>Legal Contract Review, Investment Research, Arch Eval, PM Minutes</td>
             <td>≈ 7 Min</td>
           </tr>
           <tr>
             <td>09</td>
-            <td><a href="/articles/sleep-timer-audiobook-assistant.en/"><strong>Sleep Timer Audiobook App</strong><br>Auto-Stop + Progress Save + Resume Next Morning</a></td>
+            <td><a href="{{ site.baseurl }}/articles/sleep-timer-audiobook-assistant.en/"><strong>Sleep Timer Audiobook App</strong><br>Auto-Stop + Progress Save + Resume Next Morning</a></td>
             <td>Timer (Time/Chapters/Bookmark), Fade-Out, Precise Progress, Auto-Resume. Cross-Device Sync.</td>
             <td>Insomniacs, Bedtime Listeners, Sleep Ritual Builders</td>
             <td>≈ 6 Min</td>
           </tr>
           <tr>
             <td>10</td>
-            <td><a href="/articles/privacy-first-offline-ebook-reader.en/"><strong>Privacy-First Offline Ebook Reader</strong><br>Books Stay Local, Only Synthesis to Cloud</a></td>
+            <td><a href="{{ site.baseurl }}/articles/privacy-first-offline-ebook-reader.en/"><strong>Privacy-First Offline Ebook Reader</strong><br>Books Stay Local, Only Synthesis to Cloud</a></td>
             <td>Local Parse, Only Synthesis Text to Cloud, No Account/Telemetry/Ads. Data Flow Diagram.</td>
             <td>Privacy Geeks, Copyright Book Readers, Internal Docs, Anti-Tracking</td>
             <td>≈ 8 Min</td>

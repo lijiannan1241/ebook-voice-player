@@ -3,7 +3,7 @@ layout: default
 title: "Ebook Voice Player 深度使用指南合集：从选软件到精通的 10 篇实战教程"
 description: "Ebook Voice Player 官方深度指南合集：Windows电子书朗读软件对比、EPUB转MP3离线听书、PDF语音朗读、中文神经网络语音选声、通勤听书方案、英语学习自制听力、老年人大字听书、DOCX办公文档听书、睡前助眠定时器、隐私优先本地阅读。10大场景全覆盖，收藏即用。"
 lang: zh-Hans
-hreflang_en: "/articles/"
+hreflang_en: "{{ site.baseurl }}/articles/"
 permalink: /zh/articles/
 og_title: "Ebook Voice Player 深度指南合集：10大场景实战教程全覆盖"
 og_description: "官方出品10篇深度实战：软件对比避坑、EPUB/PDF转MP3、语音选声、通勤/英语/助眠/办公/老年/隐私10大场景全覆盖。收藏这篇等于收藏全套使用手册。"
@@ -30,70 +30,70 @@ og_description: "官方出品10篇深度实战：软件对比避坑、EPUB/PDF�
         <tbody>
           <tr>
             <td>01</td>
-            <td><a href="/articles/windows-ebook-reader-tts-comparison/"><strong>Windows电子书朗读软件哪个好用？</strong><br>2026实测对比避坑指南</a></td>
+            <td><a href="{{ site.baseurl }}/articles/windows-ebook-reader-tts-comparison/"><strong>Windows电子书朗读软件哪个好用？</strong><br>2026实测对比避坑指南</a></td>
             <td>选软件不踩坑：语音质量、格式支持、导出功能、隐私保护四维横评</td>
             <td>所有 Windows 用户、初次接触 TTS 阅读器</td>
             <td>≈ 8 分钟</td>
           </tr>
           <tr>
             <td>02</td>
-            <td><a href="/articles/epub-to-mp3-offline-listening/"><strong>如何把EPUB转成MP3在手机听？</strong><br>零成本离线听书全流程实操</a></td>
+            <td><a href="{{ site.baseurl }}/articles/epub-to-mp3-offline-listening/"><strong>如何把EPUB转成MP3在手机听？</strong><br>零成本离线听书全流程实操</a></td>
             <td>EPUB→按章MP3→手机离线听，避开在线转换网站隐私坑</td>
             <td>通勤党、跑步党、想把电子书变有声书带走</td>
             <td>≈ 6 分钟</td>
           </tr>
           <tr>
             <td>03</td>
-            <td><a href="/articles/pdf-voice-reader-windows-free-trial/"><strong>PDF语音朗读软件Windows免费试用</strong><br>论文报告合同听完不费眼</a></td>
+            <td><a href="{{ site.baseurl }}/articles/pdf-voice-reader-windows-free-trial/"><strong>PDF语音朗读软件Windows免费试用</strong><br>论文报告合同听完不费眼</a></td>
             <td>扫描版PDF怎办？公式代码怎么读？长文档怎么定位？</td>
             <td>科研党、法务/商务、技术文档重度阅读者</td>
             <td>≈ 7 分钟</td>
           </tr>
           <tr>
             <td>04</td>
-            <td><a href="/articles/chinese-neural-voices-tts-comparison/"><strong>中文神经网络语音朗读软件</strong><br>300+语音晓晓云希随心选</a></td>
+            <td><a href="{{ site.baseurl }}/articles/chinese-neural-voices-tts-comparison/"><strong>中文神经网络语音朗读软件</strong><br>300+语音晓晓云希随心选</a></td>
             <td>晓晓/云希/云扬/晓伊/云健...10+中文语音按场景选声，告别机械音</td>
             <td>追求听感体验、有声书制作、方言需求用户</td>
             <td>≈ 5 分钟</td>
           </tr>
           <tr>
             <td>05</td>
-            <td><a href="/articles/commute-audiobook-windows-mobile-sync/"><strong>通勤路上听书神器</strong><br>Windows整理书库导出MP3手机离线听</a></td>
+            <td><a href="{{ site.baseurl }}/articles/commute-audiobook-windows-mobile-sync/"><strong>通勤路上听书神器</strong><br>Windows整理书库导出MP3手机离线听</a></td>
             <td>电脑重活(批量导出) + 手机轻活(倍速/定时/书签) = 通勤听书自由</td>
             <td>上班族、学生党、每天通勤 1-2 小时</td>
             <td>≈ 6 分钟</td>
           </tr>
           <tr>
             <td>06</td>
-            <td><a href="/articles/english-learning-custom-listening-materials/"><strong>英语学习自制听力材料</strong><br>原版书转MP3语速可调段落可复读</a></td>
+            <td><a href="{{ site.baseurl }}/articles/english-learning-custom-listening-materials/"><strong>英语学习自制听力材料</strong><br>原版书转MP3语速可调段落可复读</a></td>
             <td>Aria/Guy/Jenny/Sonia 英语语音 + 0.7×精听/1.3×泛听/单句循环/生词进Anki</td>
             <td>雅思托福GRE备考、英语泛听精听、影子跟读</td>
             <td>≈ 8 分钟</td>
           </tr>
           <tr>
             <td>07</td>
-            <td><a href="/articles/low-vision-elderly-reading-assistant/"><strong>视力不好/老年人看书神器</strong><br>大字体语音同步Windows阅读辅助</a></td>
+            <td><a href="{{ site.baseurl }}/articles/low-vision-elderly-reading-assistant/"><strong>视力不好/老年人看书神器</strong><br>大字体语音同步Windows阅读辅助</a></td>
             <td>字号36px/行距2.2/高对比度 + 慢速晓伊语音 + 导出MP3给老人机</td>
             <td>低视力、老花眼、给父母长辈找软件、阅读疲劳</td>
             <td>≈ 7 分钟</td>
           </tr>
           <tr>
             <td>08</td>
-            <td><a href="/articles/docx-voice-reader-office-efficiency/"><strong>DOCX文档语音朗读办公神器</strong><br>合同报告方案听完不费眼</a></td>
+            <td><a href="{{ site.baseurl }}/articles/docx-voice-reader-office-efficiency/"><strong>DOCX文档语音朗读办公神器</strong><br>合同报告方案听完不费眼</a></td>
             <td>Word文档保留结构→章节跳转/书签笔记/MP3导出，办公阅读效率×3</td>
             <td>法务审合同、投资读研报、架构评方案、PM整纪要</td>
             <td>≈ 7 分钟</td>
           </tr>
           <tr>
             <td>09</td>
-            <td><a href="/articles/sleep-timer-audiobook-assistant/"><strong>睡前听书定时关闭神器</strong><br>睡眠定时器+进度保存醒来接着听</a></td>
+            <td><a href="{{ site.baseurl }}/articles/sleep-timer-audiobook-assistant/"><strong>睡前听书定时关闭神器</strong><br>睡眠定时器+进度保存醒来接着听</a></td>
             <td>按时长/章节/书签定时停、淡出不惊醒、进度精准记忆、跨设备同步</td>
             <td>失眠党、睡前听书习惯、想建立睡眠仪式</td>
             <td>≈ 6 分钟</td>
           </tr>
           <tr>
             <td>10</td>
-            <td><a href="/articles/privacy-first-offline-ebook-reader/"><strong>本地电子书管理朗读器无广告无账号</strong><br>隐私优先书籍不出设备</a></td>
+            <td><a href="{{ site.baseurl }}/articles/privacy-first-offline-ebook-reader/"><strong>本地电子书管理朗读器无广告无账号</strong><br>隐私优先书籍不出设备</a></td>
             <td>本地解析、仅合成文本上云、无账号无遥测无广告、数据流向全透明</td>
             <td>隐私极客、版权书读者、内部文档处理、反广告/反追踪</td>
             <td>≈ 8 分钟</td>
