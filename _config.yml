@@ -1,0 +1,72 @@
+# Jekyll configuration for Ebook Voice Player
+title: "Ebook Voice Player"
+description: "Text-to-speech ebook reader for Windows. Turn TXT, DOCX, PDF, EPUB and HTML books into natural speech with 300+ neural voices across 70+ languages."
+url: "https://lijiannan1241.github.io"
+baseurl: "/ebook-voice-player"
+
+# Site metadata
+app_name: "Ebook Voice Player"
+app_version: "1.0.1.0"
+publisher: "nannan2008"
+store_url: "https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN"
+repo_url: "https://github.com/lijiannan1241/ebook-voice-player"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - README.zh.md
+  - README.en.md
+  - LICENSE
+  - CNAME.example
+  - SEO_GEO_CHECKLIST.md
+  - site.config.json
+  - tools/
+  - .github/
+  - src/
+  - _site/
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+
+# Include files
+include:
+  - _site/
+  - .nojekyll
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      lang: "en"
+  - scope:
+      path: "zh"
+    values:
+      lang: "zh-Hans"
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Sitemap
+sitemap:
+  priority: 0.7
+  changefreq: "monthly"
+
+# SEO
+lang: "en"
+locale: "en_US"

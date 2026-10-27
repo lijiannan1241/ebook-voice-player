@@ -1,21 +1,16 @@
-# Build and deploy the static site to GitHub Pages
-name: Deploy static site to GitHub Pages
+# Build and deploy Jekyll site to GitHub Pages
+name: Deploy Jekyll site to GitHub Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -27,17 +22,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
-      - name: Build static site
-        run: python build.py
-        env:
-          # The site URL is auto-detected from GITHUB_REPOSITORY in build.py
-          # If using a custom domain, uncomment and set SITE_URL:
-          # SITE_URL: https://your-custom-domain.com/
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

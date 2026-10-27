@@ -25,4 +25,4 @@ Allow: /
 User-agent: Claude-User
 Allow: /
 
-Sitemap: {{SITE_URL}}sitemap.xml
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml

@@ -1,29 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Page not found — {{APP_NAME}}</title>
-<meta name="robots" content="noindex, follow">
-<meta name="theme-color" content="#101726">
-<link rel="icon" href="{{SITE_URL}}assets/img/favicon.svg" type="image/svg+xml">
+---
+layout: default
+title: "Page not found — Ebook Voice Player"
+description: "The page you're looking for doesn't exist."
+lang: en
+robots: "noindex, follow"
+features_text: "Features"
+video_text: "Trailer"
+how_text: "How it works"
+faq_text: "FAQ"
+get_app_text: "Get the app"
+menu_label: "Open menu"
+nav_label: "Main"
+lang_label: "Language"
+skip_text: "Skip to content"
+footer_tagline: "A text-to-speech ebook reader for Windows. Open a book, choose a voice, and listen while the page stays in front of you."
+product_title: "Product"
+resources_title: "Resources"
+support_text: "Support"
+privacy_text: "Privacy"
+footer_note: "Independent app. Microsoft, Windows and Microsoft Store are trademarks of Microsoft Corporation. Speech synthesis uses the Microsoft Edge online text-to-speech service."
+---
+
 <style>
   :root { color-scheme: dark; }
   * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    min-height: 100vh;
-    display: grid;
-    place-items: center;
-    padding: 32px;
-    background:
-      radial-gradient(ellipse at 20% 0%, rgba(224, 163, 62, 0.22), transparent 55%),
-      radial-gradient(ellipse at 85% 100%, rgba(43, 140, 133, 0.26), transparent 55%),
-      #101726;
-    color: #f8f3e7;
-    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-    line-height: 1.6;
-  }
   main { max-width: 560px; text-align: center; }
   .code {
     font-family: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
@@ -52,16 +52,13 @@
   a.primary { background: #e0a33e; border-color: #e0a33e; color: #2b1c00; }
   a:hover { filter: brightness(1.08); }
 </style>
-</head>
-<body>
+
 <main>
   <p class="code">404</p>
   <h1>This page is missing from the shelf</h1>
   <p>The link may be old, or the page may have moved. Head back to the homepage to keep reading.</p>
   <div class="actions">
-    <a class="primary" href="{{SITE_URL}}">Back to the homepage</a>
-    <a href="{{SITE_URL}}support.html">Support</a>
+    <a class="primary" href="{{ site.baseurl }}/">Back to the homepage</a>
+    <a href="{{ site.baseurl }}/support.html">Support</a>
   </div>
 </main>
-</body>
-</html>

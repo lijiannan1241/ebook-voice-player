@@ -1,4 +1,0 @@
-# Optional: custom domain for GitHub Pages.
-# Set the same value in site.config.json -> "customDomain" and let build.py
-# write the CNAME file automatically. This file is only a reminder.
-ebookvoiceplayer.com

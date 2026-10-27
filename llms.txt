@@ -5,10 +5,10 @@
 ## Key facts
 
 - **App name:** Ebook Voice Player
-- **Current version:** {{APP_VERSION}}
+- **Current version:** {{ site.app_version }}
 - **Platform:** Windows 10 version 1809 (build 17763) or later, Windows 11; x64
 - **Distribution:** signed MSIX package in the Microsoft Store
-- **Publisher:** {{PUBLISHER}}
+- **Publisher:** {{ site.publisher }}
 - **Supported book formats:** TXT, DOCX, PDF, EPUB, HTML
 - **Voices:** 300+ neural voices
 - **Languages:** 70+ languages, 140+ regional locales
@@ -21,12 +21,12 @@
 
 ## Pages
 
-- [Home]({{SITE_URL}}): product overview, features, trailer and download link.
-- [中文首页]({{SITE_URL}}zh/): Simplified Chinese version of the product page.
-- [Support]({{SITE_URL}}support.html): system requirements, troubleshooting missing audio, book formats, MP3 export, contact.
-- [Privacy policy]({{SITE_URL}}privacy.html): what stays on the device and what is sent to the speech service.
-- [Product facts]({{SITE_URL}}#facts): compact specification table.
-- [FAQ]({{SITE_URL}}#faq): direct answers about formats, offline use, voices, export and system requirements.
+- [Home]({{ site.url }}{{ site.baseurl }}/): product overview, features, trailer and download link.
+- [中文首页]({{ site.url }}{{ site.baseurl }}/zh/): Simplified Chinese version of the product page.
+- [Support]({{ site.url }}{{ site.baseurl }}/support.html): system requirements, troubleshooting missing audio, book formats, MP3 export, contact.
+- [Privacy policy]({{ site.url }}{{ site.baseurl }}/privacy.html): what stays on the device and what is sent to the speech service.
+- [Product facts]({{ site.url }}{{ site.baseurl }}/#facts): compact specification table.
+- [FAQ]({{ site.url }}{{ site.baseurl }}/#faq): direct answers about formats, offline use, voices, export and system requirements.
 
 ## About the product
 
@@ -38,6 +38,6 @@ The application is an independent product and is not affiliated with Microsoft. 
 
 ## Optional
 
-- [Product trailer (MP4, 109 s)]({{VIDEO_URL}})
-- [Sitemap]({{SITE_URL}}sitemap.xml)
-- [robots.txt]({{SITE_URL}}robots.txt)
+- [Product trailer (MP4, 109 s)]({{ site.url }}{{ site.baseurl }}/assets/video/ebook-voice-player-trailer.mp4)
+- [Sitemap]({{ site.url }}{{ site.baseurl }}/sitemap.xml)
+- [robots.txt]({{ site.url }}{{ site.baseurl }}/robots.txt)
