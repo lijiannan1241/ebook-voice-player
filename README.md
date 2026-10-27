@@ -1,8 +1,12 @@
 # Ebook Voice Player — official website
 
+[![Get it from Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Get_the_app-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN)
+
 Static landing site for **Ebook Voice Player**, built for GitHub Pages and
 structured for both classic SEO and generative-engine optimisation (GEO).
 No frameworks, no build dependencies, no external requests at runtime.
+
+**📱 Download the app:** [Ebook Voice Player on Microsoft Store](https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN)
 
 ```
 github-pages/
