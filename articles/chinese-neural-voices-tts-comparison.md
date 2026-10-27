@@ -104,7 +104,7 @@ og_description: "实测微软Edge TTS 10+中文神经网络语音：晓晓通用
       <p>微软商店装 <strong>Ebook Voice Player</strong>，语音面板一点，晓晓/云希/云扬/晓伊任你挑。小说配晓晓，新闻配云希，故事配云扬，助眠配晓伊。免费试用全功能开放，不好听卸载走人，不留痕迹。</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
+        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">免费试听</span>

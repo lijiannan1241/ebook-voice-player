@@ -108,7 +108,7 @@ og_description: "Tested 4 Windows TTS readers on voice quality, format support, 
       <p>If you have a "must finish this book by listening" need on Windows—commute novels, exam prep textbooks, report skimming, or large-print+voice for elders—<strong>Ebook Voice Player is currently the most complete, least friction, most privacy-respecting choice</strong>. Search "Ebook Voice Player" in Microsoft Store or hit the link below. Free trial, uninstall if it doesn't click, zero residue.</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="Get Ebook Voice Player from Microsoft Store">
+        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="Get Ebook Voice Player from Microsoft Store">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">Get it from</span>

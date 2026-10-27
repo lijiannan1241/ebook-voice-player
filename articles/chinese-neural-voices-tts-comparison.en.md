@@ -104,7 +104,7 @@ og_description: "Tested 10+ Microsoft Edge TTS Chinese voices: Xiaoxiao, Yunxi, 
       <p>Microsoft Store → <strong>Ebook Voice Player</strong> → Voice Panel Click → Xiaoxiao/Yunxi/Yunyang/Xiaoyi At Your Fingertips. Novels→Xiaoxiao, News→Yunxi, Stories→Yunyang, Sleep→Xiaoyi. Free Trial Full Features. Don't Like? Uninstall, Zero Residue.</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="Get Ebook Voice Player from Microsoft Store">
+        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="Get Ebook Voice Player from Microsoft Store">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">Free Trial</span>

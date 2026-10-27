@@ -188,7 +188,7 @@ og_description: "隐私党实测：书籍本地解析、仅合成文本上云、
       <p>微软商店搜 <strong>Ebook Voice Player</strong>，免费试用全功能。不放心？装上、断网、导入本地书、阅读、加书签、导出笔记、卸载、查文件夹——全程无网络、无账号、无广告、无残留。隐私不妥协，听书不将就。</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
+        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">免费试用</span>

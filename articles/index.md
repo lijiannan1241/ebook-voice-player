@@ -103,7 +103,7 @@ og_description: "官方出品10篇深度实战：软件对比避坑、EPUB/PDF�
 
       <h2>🎯 快速起步：三步跑通核心流程</h2>
       <ol>
-        <li><strong>装软件</strong>：微软商店搜 <strong>Ebook Voice Player</strong> 或 <a href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener">直链下载</a> → 免费试用全功能</li>
+        <li><strong>装软件</strong>：微软商店搜 <strong>Ebook Voice Player</strong> 或 <a href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener">直链下载</a> → 免费试用全功能</li>
         <li><strong>导书</strong>：把 EPUB/PDF/DOCX/TXT/HTML 拖进去，或「添加文件夹」批量建库</li>
         <li><strong>听/导</strong>：选语音(中文晓晓/云希/云扬/晓伊，英文 Aria/Guy/Jenny) → 调语速 → 点播放 / 导出 MP3 传手机</li>
       </ol>
@@ -246,7 +246,7 @@ og_description: "官方出品10篇深度实战：软件对比避坑、EPUB/PDF�
 
       <h2>🔗 相关资源一站式入口</h2>
       <ul>
-        <li><a href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener"><strong>📥 Microsoft Store 下载</strong></a>（免费试用、买断制、家庭共享）</li>
+        <li><a href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener"><strong>📥 Microsoft Store 下载</strong></a>（免费试用、买断制、家庭共享）</li>
         <li><a href="/support.html" rel="noopener"><strong>📖 官方支持文档</strong></a>（系统要求/故障排查/联系方式/隐私政策）</li>
         <li><a href="https://github.com/lijiannan1241/ebook-voice-player" rel="noopener"><strong>🐙 GitHub 仓库</strong></a>（源码/问题反馈/功能建议/Release 订阅）</li>
         <li><a href="/llms.txt" rel="noopener"><strong>🤖 llms.txt</strong></a>（AI 助手友好摘要：关键事实/页面索引/产品定位）</li>
@@ -260,7 +260,7 @@ og_description: "官方出品10篇深度实战：软件对比避坑、EPUB/PDF�
       <p>去微软商店装个 <strong>Ebook Voice Player</strong>，今晚把那本想读很久的书拖进去，选个顺耳的语音，调个舒服的语速，点播放。剩下的路，书自己会带你走。</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
+        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">立即开始</span>

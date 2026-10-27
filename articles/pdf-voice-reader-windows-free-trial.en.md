@@ -125,7 +125,7 @@ og_description: "Researchers/pros tested 4 PDF TTS tools. Fixes: scanned PDF OCR
       <p>Microsoft Store search <strong>Ebook Voice Player</strong>, free trial full features. Process this batch of PDFs, then decide to buy—no wasted money.</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="Get Ebook Voice Player from Microsoft Store">
+        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="Get Ebook Voice Player from Microsoft Store">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">Free Trial</span>

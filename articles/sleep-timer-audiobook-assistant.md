@@ -150,7 +150,7 @@ og_description: "失眠党必备：睡眠定时器5-120分钟/章节数/书签�
       <p>微软商店装 <strong>Ebook Voice Player</strong>，今晚躺床上试一次：打开书 → 点月亮图标 → 选 30 分钟 → 启动 → 闭眼。醒来打开软件/手机，进度就在昨晚停下的地方。不用担心「听到哪了」「会不会放到天亮」「醒来找不着章节」。睡前听书自由，就这三步。</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
+        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">免费试用</span>

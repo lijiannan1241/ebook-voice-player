@@ -31,7 +31,7 @@ og_description: "Detailed tutorial: Convert EPUB to chapter-split MP3 with Ebook
       <h2>Prerequisites (5-Minute Setup)</h2>
       <ul>
         <li>Windows 10/11 PC</li>
-        <li>Install <strong>Ebook Voice Player</strong> from Microsoft Store (search name or <a href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener">direct link</a>)</li>
+        <li>Install <strong>Ebook Voice Player</strong> from Microsoft Store (search name or <a href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener">direct link</a>)</li>
         <li>EPUB files to convert (with TOC structure works best)</li>
         <li>Phone + USB cable / WeChat / Telegram / cloud sync for transfer</li>
       </ul>
@@ -129,7 +129,7 @@ og_description: "Detailed tutorial: Convert EPUB to chapter-split MP3 with Ebook
       <p>All local, books never uploaded, no ads/watermarks, listen as long as you want. Try tonight, commute listening tomorrow.</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="Get Ebook Voice Player from Microsoft Store">
+        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="Get Ebook Voice Player from Microsoft Store">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">Free Trial</span>
