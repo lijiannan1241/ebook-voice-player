@@ -53,15 +53,15 @@ Edit `site.config.json`:
 | `appName` | Product name shown across the site and in structured data. | `Ebook Voice Player` |
 | `appVersion` | Version shown in facts and footer. | `1.0.1.0` |
 | `publisher` | Publisher name used in copyright and `Organization`. | `nannan2008` |
-| `storeUrl` | Microsoft Store link used by every download button and badge. | `apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS` |
+| `storeUrl` | Microsoft Store link used by every download button and badge. | `apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN` |
 | `repoUrl` | Optional repository URL (empty = canonical site URL). | `""` |
 | `pages` | Pages included in `sitemap.xml`. | see file |
 
 The default `storeUrl` is the live product page
 (`https://apps.microsoft.com/detail/9nlhln1sjnbr`) with the developer-share
-campaign ID `cid=DevShareMCLPCS`. The `hl` / `gl` parameters are intentionally
-left out so every visitor is sent to their own store locale; add them back only
-if you need to force a market.
+campaign ID `cid=DevShareMCLPCS` and locale parameters `hl=zh-CN&gl=CN`
+for Chinese market promotion. The locale parameters ensure visitors see the
+Chinese store page; remove them if you want visitors to see their own locale.
 
 ### URL resolution order
 

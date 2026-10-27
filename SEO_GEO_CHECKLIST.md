@@ -7,7 +7,7 @@ Replace `SITE` with the deployed URL (for example
 ## 1. Before you push
 
 - [ ] `site.config.json` → `storeUrl` points at the live product page
-      (`https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS`)
+      (`https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN`)
       and every store badge/button opens it.
 - [ ] `site.config.json` → `siteUrl` is empty (auto-detect) or set to the final
       canonical URL. If using a custom domain, set `customDomain` and enable
