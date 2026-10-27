@@ -32,10 +32,6 @@ exclude:
   - .gitignore
   - Gemfile
   - Gemfile.lock
-
-# Include files
-include:
-  - _site/
   - .nojekyll
 
 # Plugins
@@ -62,11 +58,22 @@ collections:
     output: true
     permalink: /:path/
 
-# Sitemap
+# Sitemap (jekyll-sitemap plugin)
 sitemap:
   priority: 0.7
   changefreq: "monthly"
 
-# SEO
+# SEO (jekyll-seo-tag plugin)
 lang: "en"
 locale: "en_US"
+
+# jekyll-seo-tag configuration
+twitter:
+  username: ""
+  card: "summary_large_image"
+
+social:
+  name: "Ebook Voice Player"
+  links:
+    - "https://github.com/lijiannan1241/ebook-voice-player"
+    - "https://apps.microsoft.com/detail/9nlhln1sjnbr"

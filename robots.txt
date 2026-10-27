@@ -1,3 +1,6 @@
+---
+# robots.txt - processed by Jekyll to resolve {{ site.url }} and {{ site.baseurl }}
+---
 # robots.txt for the official Ebook Voice Player website.
 # AI search and assistant crawlers are welcome; see /llms.txt for a summary.
 

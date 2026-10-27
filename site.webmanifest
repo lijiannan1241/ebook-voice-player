@@ -1,3 +1,6 @@
+---
+# site.webmanifest - processed by Jekyll to resolve {{ site.baseurl }}
+---
 {
   "name": "Ebook Voice Player",
   "short_name": "Ebook Voice",

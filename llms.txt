@@ -1,3 +1,6 @@
+---
+# llms.txt - processed by Jekyll to resolve {{ site.url }}, {{ site.baseurl }}, {{ site.app_version }}, {{ site.publisher }}
+---
 # Ebook Voice Player
 
 > Ebook Voice Player is a text-to-speech ebook reader for Windows 10 and Windows 11 (x64). It opens TXT, DOCX, PDF, EPUB and HTML books, reads them aloud with 300+ neural voices across 70+ languages, highlights the paragraph being spoken, and can export narration to MP3.
