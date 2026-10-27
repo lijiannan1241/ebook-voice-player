@@ -55,7 +55,7 @@ defaults:
       path: "articles"
     values:
       layout: "default"
-      lang: "zh-Hans"
+  # Note: lang is set per-file in front matter (en for .en.md, zh-Hans for others)
 
 # Collections
 collections:
