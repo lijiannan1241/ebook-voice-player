@@ -51,12 +51,20 @@ defaults:
       path: "zh"
     values:
       lang: "zh-Hans"
+  - scope:
+      path: "articles"
+    values:
+      layout: "default"
+      lang: "zh-Hans"
 
 # Collections
 collections:
   pages:
     output: true
     permalink: /:path/
+  articles:
+    output: true
+    permalink: /articles/:title/
 
 # Sitemap (jekyll-sitemap plugin)
 sitemap:
