@@ -1,12 +1,12 @@
 # Ebook Voice Player
 
 > **Open a 200,000-word novel and hear it read aloud—in a voice you picked.**  
-> **229 voices, 56 languages and regional accents; auto chapter detection, read-along highlighting, full-book MP3 export.**  
+> **322 voices, 75 languages and regional accents; auto chapter detection, read-along highlighting, full-book MP3 export.**  
 > **¥7 one-time purchase. No subscription, no ads. Install on Windows 10/11 and go.**
 
 [**Get it on Microsoft Store (free trial included) →**](https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN)
 
-`Available on Microsoft Store` · `Windows 10/11` · `x64` · `~194 MB` · `229 voices` · `56 languages & regional accents` · `¥7 in China, free trial`
+`Available on Microsoft Store` · `Windows 10/11` · `x64` · `~194 MB` · `322 voices` · `75 languages & regional accents` · `¥7 in China, free trial`
 
 [中文](README.md) | [English](README.en.md)
 
@@ -30,7 +30,7 @@ You know the moment: you find a novel you want to read, but it is a TXT file. Yo
 
 | Pain point | What usually happens | How Ebook Voice Player solves it |
 |---|---|---|
-| **Robotic voices** | System TTS gives you a few mechanical voices; two chapters in, you are done | 229 neural voices, including Mandarin, Cantonese, Northeastern, Shaanxi, and Taiwanese accents, plus English, Japanese, Korean, French, German, Spanish, Russian, Arabic, Thai, Vietnamese, and more |
+| **Robotic voices** | System TTS gives you a few mechanical voices; two chapters in, you are done | 322 neural voices, including Mandarin, Cantonese, Northeastern, Shaanxi, and Taiwanese accents, plus English, Japanese, Korean, French, German, Spanish, Russian, Arabic, Thai, Vietnamese, and more |
 | **No chapters in long novels** | You can only start from the beginning; jumping means dragging a progress bar | Detects “Chapter/Volume/Part/Section” in Chinese and English; a chapter dropdown takes you straight there |
 | **Listening and reading drift apart** | You lose track of where the narrator is and have to scroll manually | Current paragraph highlight + auto-scroll + progress percentage + estimated time remaining |
 | **Split volumes must be opened one by one** | Dozens of TXT files in one folder, switched by hand | Treats an entire folder as one book; previous/next file switches with one click |
@@ -38,9 +38,9 @@ You know the moment: you find a novel you want to read, but it is a TXT file. Yo
 
 ## 8 reasons to download
 
-### 1. 229 voices, not one robot reading everything
+### 1. 322 voices, not one robot reading everything
 
-The catalog covers 56 languages and regional accents across 75 regions. Chinese is not just Mandarin: Cantonese, Northeastern, Shaanxi, and Taiwanese accents are clearly labeled. English covers US, UK, Australian, Canadian, and Indian accents. Japanese, Korean, French, German, Spanish, Russian, Arabic, Thai, Vietnamese, and more are included.
+The catalog covers 75 languages and regional accents across 142 regions. Chinese is not just Mandarin: Cantonese, Northeastern, Shaanxi, and Taiwanese accents are clearly labeled. English covers US, UK, Australian, Canadian, and Indian accents. Japanese, Korean, French, German, Spanish, Russian, Arabic, Thai, Vietnamese, and more are included.
 
 Search the voice list, preview a voice, and switch voices during playback—the current paragraph finishes, then the new voice takes over.
 
@@ -98,7 +98,7 @@ Export the current book as numbered MP3 files, starting at `段落_0001.mp3`, re
 
 | Product | Price | Voices & languages | Offline | Read-along / chapters | MP3 export | Platform & size |
 |---|---|---|---|---|---|---|
-| **Ebook Voice Player (this app)** | **¥7 one-time, free trial** | **229 / 56 languages & regional accents** | Internet required for synthesis | **Paragraph highlight + auto-scroll / auto chapters** | **Yes** | Windows 10/11, ~194 MB |
+| **Ebook Voice Player (this app)** | **¥7 one-time, free trial** | **322 / 75 languages & regional accents** | Internet required for synthesis | **Paragraph highlight + auto-scroll / auto chapters** | **Yes** | Windows 10/11, ~194 MB |
 | Ebook to Audio | $24.99 | 9 languages | Fully offline | Yes / Yes | Yes | Windows, ~3.8 GB |
 | NaturalReader | Limited free tier; subscription | 150+ / 20+ languages | Mostly online | Yes / Partial | Paid | Windows / Web / mobile |
 | Speechify | Subscription | Multilingual premium voices, strongest in English | Online | Yes / Partial | Paid | Multi-platform |
@@ -111,13 +111,13 @@ Export the current book as numbered MP3 files, starting at `段落_0001.mp3`, re
 - Want **fully offline, 9 languages, and willing to accept 3.8 GB and $24.99**? Ebook to Audio is a good fit.
 - Want **to read web pages in your browser**? Edge Read Aloud is lighter.
 - Want **system TTS on Android**? @Voice Aloud Reader is the right tool.
-- Want **229 voices, Chinese dialects, chapter follow-along, full-book export, a ¥7 one-time purchase, and a Windows desktop app**? Choose Ebook Voice Player.
+- Want **322 voices, Chinese dialects, chapter follow-along, full-book export, a ¥7 one-time purchase, and a Windows desktop app**? Choose Ebook Voice Player.
 
 ### Where we win
 
 **Price:** ¥7 one-time, versus $24.99 upfront or a monthly subscription. Very low cost to try.
 
-**Voice coverage:** 229 voices versus 9 languages; Chinese dialects are labeled separately, so you do not have to guess among dozens of “Chinese female” entries.
+**Voice coverage:** 322 voices versus 9 languages; Chinese dialects are labeled separately, so you do not have to guess among dozens of “Chinese female” entries.
 
 **Size and barrier to entry:** About 194 MB, runs on CPU, no GPU and no multi-gigabyte local model download. It installs on older PCs too.
 
@@ -131,7 +131,7 @@ Export the current book as numbered MP3 files, starting at `段落_0001.mp3`, re
 - **No OCR for scanned PDFs:** only PDFs with a text layer can be extracted directly.
 - **No DRM ebooks:** use personal, DRM-free files.
 - **Not a native mobile app:** the Microsoft Store listing is the Windows desktop version. The UI adapts to narrow screens, but phones are not the primary target.
-- **The voice list may change:** the 229 voices are provided by edge-tts and may change with Microsoft's service.
+- **The voice list may change:** the 322 voices are provided by edge-tts and may change with Microsoft's service.
 
 ## Up and running in 3 minutes
 

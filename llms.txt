@@ -3,7 +3,7 @@
 ---
 # Ebook Voice Player
 
-> Ebook Voice Player is a text-to-speech ebook reader for Windows 10 and Windows 11 (x64). It opens TXT, DOCX, PDF, EPUB and HTML books, reads them aloud with 300+ neural voices across 70+ languages, highlights the paragraph being spoken, and can export narration to MP3.
+> Ebook Voice Player is a text-to-speech ebook reader for Windows 10 and Windows 11 (x64). It opens TXT, DOCX, PDF, EPUB and HTML books, reads them aloud with 322 neural voices across 75 languages, highlights the paragraph being spoken, and can export narration to MP3.
 
 ## Key facts
 
@@ -13,8 +13,8 @@
 - **Distribution:** signed MSIX package in the Microsoft Store
 - **Publisher:** {{ site.publisher }}
 - **Supported book formats:** TXT, DOCX, PDF, EPUB, HTML
-- **Voices:** 300+ neural voices
-- **Languages:** 70+ languages, 140+ regional locales
+- **Voices:** 322 neural voices
+- **Languages:** 75 languages, 142 regional locales
 - **Interface languages:** English, Simplified Chinese
 - **Core features:** paragraph highlighting, automatic chapter detection, chapter and paragraph navigation, adjustable speed, text size and line spacing, bookmarks, notes, in-book search, sleep timer, MP3 export
 - **Internet:** required for speech synthesis; exported MP3 files play offline

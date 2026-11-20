@@ -20,10 +20,10 @@ Replace `SITE` with the deployed URL (for example
       `meta description` (140–160 chars).
 - [ ] Facts agree across the site, the Store listing and the promo article:
       formats, platform, voice count, languages, internet requirement.
-      *Known mismatch to fix:* the current Store listing says "229 voices /
-      56 languages", while the live service reports 322 voices / 142 locales /
-      75 languages (the site says "300+ / 70+"). Update the Store listing or
-      align the wording before submitting GEO tests.
+      *Resolved:* site, READMEs, config and structured data now all quote the
+      live service figures — 322 voices / 75 languages / 142 locales. The Store
+      listing still shows an older "229 voices / 56 languages" (not editable from
+      this repo); keep this in mind when comparing Store vs site copy.
 
 ## 2. After the first deploy
 

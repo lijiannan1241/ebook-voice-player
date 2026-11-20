@@ -1,6 +1,6 @@
 # Jekyll configuration for Ebook Voice Player
 title: "Ebook Voice Player"
-description: "Text-to-speech ebook reader for Windows. Turn TXT, DOCX, PDF, EPUB and HTML books into natural speech with 300+ neural voices across 70+ languages."
+description: "Text-to-speech ebook reader for Windows. Turn TXT, DOCX, PDF, EPUB and HTML books into natural speech with 322 neural voices across 75 languages."
 url: "https://lijiannan1241.github.io"
 baseurl: "/ebook-voice-player"
 

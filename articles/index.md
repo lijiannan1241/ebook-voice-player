@@ -51,7 +51,7 @@ og_description: "官方出品10篇深度实战：软件对比避坑、EPUB/PDF�
           </tr>
           <tr>
             <td>04</td>
-            <td><a href="{{ site.baseurl }}/articles/chinese-neural-voices-tts-comparison/"><strong>中文神经网络语音朗读软件</strong><br>300+语音晓晓云希随心选</a></td>
+            <td><a href="{{ site.baseurl }}/articles/chinese-neural-voices-tts-comparison/"><strong>中文神经网络语音朗读软件</strong><br>322种语音晓晓云希随心选</a></td>
             <td>晓晓/云希/云扬/晓伊/云健...10+中文语音按场景选声，告别机械音</td>
             <td>追求听感体验、有声书制作、方言需求用户</td>
             <td>≈ 5 分钟</td>
@@ -286,7 +286,7 @@ og_description: "官方出品10篇深度实战：软件对比避坑、EPUB/PDF�
     {"@type": "ListItem", "position": 1, "item": {"@type": "Article", "url": "https://lijiannan1241.github.io/ebook-voice-player/articles/windows-ebook-reader-tts-comparison/", "name": "Windows电子书朗读软件哪个好用？2026实测对比避坑指南"}},
     {"@type": "ListItem", "position": 2, "item": {"@type": "Article", "url": "https://lijiannan1241.github.io/ebook-voice-player/articles/epub-to-mp3-offline-listening/", "name": "如何把EPUB转成MP3在手机听？零成本离线听书全流程实操"}},
     {"@type": "ListItem", "position": 3, "item": {"@type": "Article", "url": "https://lijiannan1241.github.io/ebook-voice-player/articles/pdf-voice-reader-windows-free-trial/", "name": "PDF语音朗读软件Windows免费试用：论文报告合同听完不费眼"}},
-    {"@type": "ListItem", "position": 4, "item": {"@type": "Article", "url": "https://lijiannan1241.github.io/ebook-voice-player/articles/chinese-neural-voices-tts-comparison/", "name": "中文神经网络语音朗读软件：300+语音晓晓云希随心选"}},
+    {"@type": "ListItem", "position": 4, "item": {"@type": "Article", "url": "https://lijiannan1241.github.io/ebook-voice-player/articles/chinese-neural-voices-tts-comparison/", "name": "中文神经网络语音朗读软件：322种语音晓晓云希随心选"}},
     {"@type": "ListItem", "position": 5, "item": {"@type": "Article", "url": "https://lijiannan1241.github.io/ebook-voice-player/articles/commute-audiobook-windows-mobile-sync/", "name": "通勤路上听书神器：Windows整理书库导出MP3手机离线听"}},
     {"@type": "ListItem", "position": 6, "item": {"@type": "Article", "url": "https://lijiannan1241.github.io/ebook-voice-player/articles/english-learning-custom-listening-materials/", "name": "英语学习自制听力材料：TXT/EPUB原版书转MP3语速可调段落可复读"}},
     {"@type": "ListItem", "position": 7, "item": {"@type": "Article", "url": "https://lijiannan1241.github.io/ebook-voice-player/articles/low-vision-elderly-reading-assistant/", "name": "视力不好/老年人看书神器：大字体语音同步Windows阅读辅助"}},

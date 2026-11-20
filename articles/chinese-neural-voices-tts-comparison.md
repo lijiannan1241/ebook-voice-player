@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "中文神经网络语音朗读软件：300+语音晓晓云希随心选，告别机械音"
+title: "中文神经网络语音朗读软件：322种语音晓晓云希随心选，告别机械音"
 description: "深度体验微软Edge TTS中文语音库：晓晓、云希、云扬、晓伊、云夏等10+中文语音实测对比。从新闻播报、有声书、情感朗读、方言切换四大场景挑选最适合的语音。Ebook Voice Player原生集成，无需配置SAPI5语音包。"
 lang: zh-Hans
 hreflang_en: "/articles/chinese-neural-voices-tts-comparison.en/"
-og_title: "中文神经网络语音朗读软件：300+语音晓晓云希随心选"
+og_title: "中文神经网络语音朗读软件：322种语音晓晓云希随心选"
 og_description: "实测微软Edge TTS 10+中文神经网络语音：晓晓通用、云希新闻、云扬故事、晓伊情感。按场景选声，告别机械音，Ebook Voice Player原生集成开箱即用。"
 ---
 
 <section class="page-hero">
   <div class="container">
     <p class="eyebrow"><span class="dot" aria-hidden="true"></span> 语音深度测评</p>
-    <h1>中文神经网络语音朗读软件：300+语音晓晓云希随心选，告别机械音</h1>
+    <h1>中文神经网络语音朗读软件：322种语音晓晓云希随心选，告别机械音</h1>
     <p>还在忍受“微软Huihui”那种机械女声？微软Edge TTS云端已有10+中文神经网络语音，Ebook Voice Player原生集成，按场景选声：通用晓晓、新闻云希、故事云扬、情感晓伊。实测对比帮你精准选声。</p>
   </div>
 </section>
@@ -120,7 +120,7 @@ og_description: "实测微软Edge TTS 10+中文神经网络语音：晓晓通用
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "中文神经网络语音朗读软件：300+语音晓晓云希随心选，告别机械音",
+  "headline": "中文神经网络语音朗读软件：322种语音晓晓云希随心选，告别机械音",
   "description": "深度体验微软Edge TTS中文语音库：晓晓、云希、云扬、晓伊等10+中文语音实测对比。从新闻播报、有声书、情感朗读、方言切换四大场景挑选最适合语音。",
   "datePublished": "2026-10-27",
   "author": { "@type": "Person", "name": "Ebook Voice Player Team" },
