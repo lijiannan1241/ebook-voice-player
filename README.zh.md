@@ -1,5 +1,7 @@
 # Ebook Voice Player
 
+Windows 平台的**文字转语音（TTS）电子书朗读器**，把 EPUB、PDF、TXT、DOCX 电子书变成自然语音有声书——提供神经网络语音、边听边高亮、整本导出 MP3。适合通勤听书、英语学习，也为低视力人群提供无障碍阅读。
+
 > **一本 20 万字的小说，点开就能听——而且是你亲自挑的声音。**  
 > **322 种语音、75 种语言与地区口音；自动分章、边听边高亮、整本导出 MP3。**  
 > **¥7 买断，无订阅、无广告；Windows 10/11 装好即用。**
@@ -187,3 +189,10 @@
 > **你不需要再等一个“有空再看”的晚上。**  
 > 现在安装，把下一本书变成下一段通勤、家务或睡前的陪伴。  
 > [**获取 Ebook Voice Player →**](https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN)
+
+---
+
+### 关键词
+
+Windows 文字转语音、TTS 电子书朗读器、EPUB 转 MP3、PDF 朗读、DOCX 语音朗读、中文神经网络语音、
+Edge TTS 桌面应用、Windows 有声书播放器、边听边高亮、低视力无障碍阅读、离线听书导出、Windows 10/11 MSIX 应用。

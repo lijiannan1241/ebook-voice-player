@@ -1,5 +1,7 @@
 # Ebook Voice Player
 
+A Windows **text-to-speech (TTS) ebook reader** that turns EPUB, PDF, TXT and DOCX books into natural-sounding audiobooks — with neural voices, read-along highlighting and full-book MP3 export. Built for commuters, language learners, and accessible reading for low-vision users.
+
 > **Open a 200,000-word novel and hear it read aloud—in a voice you picked.**  
 > **322 voices, 75 languages and regional accents; auto chapter detection, read-along highlighting, full-book MP3 export.**  
 > **¥7 one-time purchase. No subscription, no ads. Install on Windows 10/11 and go.**
@@ -188,3 +190,11 @@ Export the current book as numbered MP3 files, starting at `段落_0001.mp3`, re
 > **You do not need to wait for another “when I have time” evening.**  
 > Install now and turn your next book into company for the commute, the chores, or bedtime.  
 > [**Get Ebook Voice Player →**](https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN)
+
+---
+
+### Keywords
+
+Windows text-to-speech, TTS ebook reader, EPUB to MP3, PDF reader with read aloud, DOCX text to speech,
+Chinese neural voices, Edge TTS desktop app, audiobook player for Windows, read-along highlighting,
+accessible reading for low-vision readers, offline audiobook export, Windows 10/11 MSIX app.
