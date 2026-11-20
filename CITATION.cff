@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you reference this project, please cite it as below."
+title: "Ebook Voice Player"
+abstract: >-
+  Ebook Voice Player is a Windows text-to-speech (TTS) ebook reader that opens
+  TXT, DOCX, PDF, EPUB and HTML books, reads them aloud with 322 neural voices
+  across 75 languages, highlights the paragraph being spoken, and exports
+  narration to MP3. This repository hosts the product website and the bilingual
+  guide library.
+version: 1.0.1.0
+date-released: "2026-10-25"
+type: software
+license: Apache-2.0
+repository-code: "https://github.com/lijiannan1241/ebook-voice-player"
+url: "https://lijiannan1241.github.io/ebook-voice-player/"
+keywords:
+  - text-to-speech
+  - TTS
+  - ebook-reader
+  - audiobook
+  - epub-to-mp3
+  - pdf-reader
+  - chinese-tts
+  - edge-tts
+  - accessibility
+  - windows-app
+authors:
+  - family-names: "nannan2008"
+    name: "nannan2008"
+    affiliation: "Independent developer"
+preferred-citation:
+  type: software
+  title: "Ebook Voice Player"
+  version: 1.0.1.0
+  date-released: "2026-10-25"
+  repository-code: "https://github.com/lijiannan1241/ebook-voice-player"
+  url: "https://lijiannan1241.github.io/ebook-voice-player/"
+  authors:
+    - family-names: "nannan2008"
+      name: "nannan2008"

@@ -8,6 +8,10 @@ baseurl: "/ebook-voice-player"
 app_name: "Ebook Voice Player"
 app_version: "1.0.1.0"
 publisher: "nannan2008"
+# Price shown on site and in SoftwareApplication JSON-LD offers.
+# Source: README "¥7 one-time purchase". If Store price changes, edit here only.
+price: "7.00"
+price_currency: "CNY"
 store_url: "https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN"
 repo_url: "https://github.com/lijiannan1241/ebook-voice-player"
 

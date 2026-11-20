@@ -106,6 +106,14 @@
         "installUrl": "{{ site.store_url }}",
         "inLanguage": ["en", "zh-Hans"],
         "description": "{{ site.description }}",
+        "offers": {
+          "@type": "Offer",
+          "price": "{{ site.price }}",
+          "priceCurrency": "{{ site.price_currency }}",
+          "availability": "https://schema.org/InStock",
+          "url": "{{ site.store_url }}",
+          "priceValidUntil": "2027-12-31"
+        },
         "featureList": [
           "Reads TXT, DOCX, PDF, EPUB and HTML books aloud",
           "322 neural voices across 75 languages",
