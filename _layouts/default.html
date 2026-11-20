@@ -6,20 +6,30 @@
   <title>{{ page.title | default: site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace: 'index.html', '' }}">
-  {% if page.lang == 'zh-Hans' %}
-  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}/">
-  <link rel="alternate" hreflang="zh-Hans" href="{{ site.url }}{{ site.baseurl }}/zh/">
-  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}/">
+  {% comment %}
+  hreflang: only the language pair that actually exists for THIS page.
+  - Home pages (and the two collection index pages) have a real en/zh pair.
+  - Every article has a real en/zh pair declared via hreflang_en / hreflang_zh.
+  - Single-language pages (support, privacy, 404) emit no alternates and rely
+    on their self-referential canonical only. Never point a page's hreflang at
+    the homepage — that is a conflicting, ignored signal in Search Console.
+  {% endcomment %}
   {% if page.hreflang_en %}
   <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}{{ page.hreflang_en }}">
-  {% endif %}
-  {% else %}
+  <link rel="alternate" hreflang="zh-Hans" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace: 'index.html', '' }}">
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}{{ page.hreflang_en }}">
+  {% elsif page.hreflang_zh %}
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace: 'index.html', '' }}">
+  <link rel="alternate" hreflang="zh-Hans" href="{{ site.url }}{{ site.baseurl }}{{ page.hreflang_zh }}">
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace: 'index.html', '' }}">
+  {% elsif page.url == '/index.html' or page.url == '/' %}
   <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}/">
   <link rel="alternate" hreflang="zh-Hans" href="{{ site.url }}{{ site.baseurl }}/zh/">
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}/">
-  {% if page.hreflang_zh %}
-  <link rel="alternate" hreflang="zh-Hans" href="{{ site.url }}{{ site.baseurl }}{{ page.hreflang_zh }}">
-  {% endif %}
+  {% elsif page.url == '/zh/index.html' or page.url == '/zh/' %}
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}/">
+  <link rel="alternate" hreflang="zh-Hans" href="{{ site.url }}{{ site.baseurl }}/zh/">
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}/">
   {% endif %}
   <meta name="robots" content="{{ page.robots | default: 'index, follow, max-image-preview:large, max-snippet:-1' }}">
   <meta name="author" content="{{ site.publisher }}">
@@ -171,7 +181,7 @@
         <a href="{{ site.baseurl }}/#how-it-works">{{ page.how_text | default: '使用方法' }}</a>
         <a href="{{ site.baseurl }}/#faq">{{ page.faq_text | default: '常见问题' }}</a>
         <span class="lang-switch" aria-label="{{ page.lang_label | default: '语言' }}">
-          <a href="{{ site.baseurl }}/" hreflang="en" lang="en">EN</a>
+          <a href="{{ site.baseurl }}{{ page.hreflang_en | default: '/' }}" hreflang="en" lang="en">EN</a>
           <a href="{{ site.baseurl }}/zh/" aria-current="page" hreflang="zh-Hans" lang="zh-Hans">中文</a>
         </span>
         <a class="btn btn-primary" href="{{ site.store_url }}" rel="noopener">
@@ -185,7 +195,7 @@
         <a href="{{ site.baseurl }}/#faq">{{ page.faq_text | default: 'FAQ' }}</a>
         <span class="lang-switch" aria-label="{{ page.lang_label | default: 'Language' }}">
           <a href="{{ site.baseurl }}/" aria-current="page" hreflang="en" lang="en">EN</a>
-          <a href="{{ site.baseurl }}/zh/" hreflang="zh-Hans" lang="zh-Hans">中文</a>
+          <a href="{{ site.baseurl }}{{ page.hreflang_zh | default: '/zh/' }}" hreflang="zh-Hans" lang="zh-Hans">中文</a>
         </span>
         <a class="btn btn-primary" href="{{ site.store_url }}" rel="noopener">
           <svg class="icon" aria-hidden="true"><use href="#i-download"/></svg>
@@ -227,15 +237,15 @@
         <div class="footer-col">
           <h3>{{ page.resources_title | default: 'Resources' }}</h3>
           <ul>
-            <li><a href="{{ site.baseurl }}/support.html">{{ page.support_text | default: 'Support' }}</a></li>
-            <li><a href="{{ site.baseurl }}/privacy.html">{{ page.privacy_text | default: 'Privacy' }}</a></li>
+            <li><a href="{{ site.baseurl }}/support/">{{ page.support_text | default: 'Support' }}</a></li>
+            <li><a href="{{ site.baseurl }}/privacy/">{{ page.privacy_text | default: 'Privacy' }}</a></li>
             <li><a href="{{ site.baseurl }}/articles/">深度指南合集</a></li>
             <li><a href="{{ site.baseurl }}/llms.txt">llms.txt</a></li>
             <li><a href="{{ site.baseurl }}/sitemap.xml">Sitemap</a></li>
             {% if page.lang == 'zh-Hans' %}
-            <li><a href="{{ site.baseurl }}/" hreflang="en" lang="en">English page</a></li>
+            <li><a href="{{ site.baseurl }}{{ page.hreflang_en | default: '/' }}" hreflang="en" lang="en">English page</a></li>
             {% else %}
-            <li><a href="{{ site.baseurl }}/zh/" hreflang="zh-Hans" lang="zh-Hans">中文页面</a></li>
+            <li><a href="{{ site.baseurl }}{{ page.hreflang_zh | default: '/zh/' }}" hreflang="zh-Hans" lang="zh-Hans">中文页面</a></li>
             {% endif %}
           </ul>
         </div>

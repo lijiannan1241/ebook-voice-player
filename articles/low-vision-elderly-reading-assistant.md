@@ -3,7 +3,7 @@ layout: default
 title: "视力不好/老年人看书神器：大字体+语音同步，Windows上最省心的阅读辅助"
 description: "针对低视力、老花眼、阅读疲劳人群：Ebook Voice Player提供字号/行距/段距独立调节、语音同步高亮、一键导出MP3给长辈手机听。无广告、无账号、无复杂设置，安装即用。附老人机/功能机传输方案。"
 lang: zh-Hans
-hreflang_en: "/articles/low-vision-elderly-reading-assistant/"
+hreflang_en: "/articles/low-vision-elderly-reading-assistant.en/"
 og_title: "视力不好老年人看书神器：大字体语音同步Windows阅读辅助"
 og_description: "低视力/老花眼/阅读疲劳救星：字号行距随心调、语音同步高亮、一键导出MP3给长辈手机。无广告无账号无复杂设置，安装即用。附老人机传输方案。"
 ---
@@ -160,7 +160,7 @@ og_description: "低视力/老花眼/阅读疲劳救星：字号行距随心调�
       <p>不用买专用设备、不用教复杂操作、不用担心广告隐私。今晚回家给父母试配一次，明早散步就能听上《红岩》《平凡的世界》了。</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
+        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">免费试用</span>

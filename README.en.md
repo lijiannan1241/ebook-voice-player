@@ -4,7 +4,7 @@
 > **229 voices, 56 languages and regional accents; auto chapter detection, read-along highlighting, full-book MP3 export.**  
 > **¥7 one-time purchase. No subscription, no ads. Install on Windows 10/11 and go.**
 
-[**Get it on Microsoft Store (free trial included) →**](https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS)
+[**Get it on Microsoft Store (free trial included) →**](https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN)
 
 `Available on Microsoft Store` · `Windows 10/11` · `x64` · `~194 MB` · `229 voices` · `56 languages & regional accents` · `¥7 in China, free trial`
 
@@ -135,7 +135,7 @@ Export the current book as numbered MP3 files, starting at `段落_0001.mp3`, re
 
 ## Up and running in 3 minutes
 
-1. Install from [Microsoft Store](https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS) and open the app.
+1. Install from [Microsoft Store](https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN) and open the app.
 2. Choose `File → Open File` for one book, or `File → Open Folder Library` to treat a whole folder as one book.
 3. Search or preview voices in the right-hand panel and pick one.
 4. Click any paragraph, or press `▶` at the bottom to start; `Space` pauses/resumes.
@@ -177,7 +177,7 @@ Export the current book as numbered MP3 files, starting at `段落_0001.mp3`, re
 
 ## Download and pricing
 
-[**Microsoft Store: Ebook Voice Player - Text To Speech Ebook Reader →**](https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS)
+[**Microsoft Store: Ebook Voice Player - Text To Speech Ebook Reader →**](https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN)
 
 - China Store price: **¥7**, with a **free trial**; prices in other regions follow the Store listing.
 - Requirements: Windows 10 version 17763 or later / Windows 11, x64.
@@ -187,4 +187,4 @@ Export the current book as numbered MP3 files, starting at `段落_0001.mp3`, re
 
 > **You do not need to wait for another “when I have time” evening.**  
 > Install now and turn your next book into company for the commute, the chores, or bedtime.  
-> [**Get Ebook Voice Player →**](https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS)
+> [**Get Ebook Voice Player →**](https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN)

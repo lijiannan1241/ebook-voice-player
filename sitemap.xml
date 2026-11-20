@@ -1,87 +1,159 @@
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/404/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/chinese-neural-voices-tts-comparison.en/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/chinese-neural-voices-tts-comparison/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/commute-audiobook-windows-mobile-sync.en/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/commute-audiobook-windows-mobile-sync/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/docx-voice-reader-office-efficiency.en/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/docx-voice-reader-office-efficiency/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/english-learning-custom-listening-materials.en/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/english-learning-custom-listening-materials/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/epub-to-mp3-offline-listening.en/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/epub-to-mp3-offline-listening/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/zh/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/zh/articles/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/low-vision-elderly-reading-assistant.en/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/low-vision-elderly-reading-assistant/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/pdf-voice-reader-windows-free-trial.en/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/pdf-voice-reader-windows-free-trial/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/privacy-first-offline-ebook-reader.en/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/privacy-first-offline-ebook-reader/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/privacy/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/sleep-timer-audiobook-assistant.en/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/sleep-timer-audiobook-assistant/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/support/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/windows-ebook-reader-tts-comparison.en/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/articles/windows-ebook-reader-tts-comparison/</loc>
-</url>
-<url>
-<loc>https://lijiannan1241.github.io/ebook-voice-player/google62978c85f5e67e5d.html</loc>
-<lastmod>2026-10-27T10:02:13+00:00</lastmod>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/chinese-neural-voices-tts-comparison.en/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/chinese-neural-voices-tts-comparison/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/commute-audiobook-windows-mobile-sync.en/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/commute-audiobook-windows-mobile-sync/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/docx-voice-reader-office-efficiency.en/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/docx-voice-reader-office-efficiency/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/english-learning-custom-listening-materials.en/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/english-learning-custom-listening-materials/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/epub-to-mp3-offline-listening.en/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/epub-to-mp3-offline-listening/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/low-vision-elderly-reading-assistant.en/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/low-vision-elderly-reading-assistant/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/pdf-voice-reader-windows-free-trial.en/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/pdf-voice-reader-windows-free-trial/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/privacy-first-offline-ebook-reader.en/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/privacy-first-offline-ebook-reader/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/sleep-timer-audiobook-assistant.en/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/sleep-timer-audiobook-assistant/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/windows-ebook-reader-tts-comparison.en/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/articles/windows-ebook-reader-tts-comparison/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/privacy/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/support/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/zh/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://lijiannan1241.github.io/ebook-voice-player/zh/articles/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

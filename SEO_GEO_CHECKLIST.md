@@ -2,7 +2,7 @@
 
 Run this before the first deploy and again after any content change.
 Replace `SITE` with the deployed URL (for example
-`https://nannan2008.github.io/ebook-voice-player`).
+`https://lijiannan1241.github.io/ebook-voice-player`).
 
 ## 1. Before you push
 

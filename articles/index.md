@@ -3,7 +3,7 @@ layout: default
 title: "Ebook Voice Player 深度使用指南合集：从选软件到精通的 10 篇实战教程"
 description: "Ebook Voice Player 官方深度指南合集：Windows电子书朗读软件对比、EPUB转MP3离线听书、PDF语音朗读、中文神经网络语音选声、通勤听书方案、英语学习自制听力、老年人大字听书、DOCX办公文档听书、睡前助眠定时器、隐私优先本地阅读。10大场景全覆盖，收藏即用。"
 lang: zh-Hans
-hreflang_en: "{{ site.baseurl }}/articles/"
+hreflang_en: "/articles/"
 permalink: /zh/articles/
 og_title: "Ebook Voice Player 深度指南合集：10大场景实战教程全覆盖"
 og_description: "官方出品10篇深度实战：软件对比避坑、EPUB/PDF转MP3、语音选声、通勤/英语/助眠/办公/老年/隐私10大场景全覆盖。收藏这篇等于收藏全套使用手册。"
@@ -103,7 +103,7 @@ og_description: "官方出品10篇深度实战：软件对比避坑、EPUB/PDF�
 
       <h2>🎯 快速起步：三步跑通核心流程</h2>
       <ol>
-        <li><strong>装软件</strong>：微软商店搜 <strong>Ebook Voice Player</strong> 或 <a href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener">直链下载</a> → 免费试用全功能</li>
+        <li><strong>装软件</strong>：微软商店搜 <strong>Ebook Voice Player</strong> 或 <a href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener">直链下载</a> → 免费试用全功能</li>
         <li><strong>导书</strong>：把 EPUB/PDF/DOCX/TXT/HTML 拖进去，或「添加文件夹」批量建库</li>
         <li><strong>听/导</strong>：选语音(中文晓晓/云希/云扬/晓伊，英文 Aria/Guy/Jenny) → 调语速 → 点播放 / 导出 MP3 传手机</li>
       </ol>
@@ -241,16 +241,16 @@ og_description: "官方出品10篇深度实战：软件对比避坑、EPUB/PDF�
         <li><strong>网页保存</strong>：浏览器「另存为」→ 完整网页 → 得到含图片/CSS/JS 的离线版</li>
         <li><strong>打印 PDF</strong>：Ctrl+P → 另存为 PDF → 无广告纯净版，手机/电子墨水屏阅读友好</li>
         <li><strong>GitHub 克隆</strong>：<code>git clone https://github.com/lijiannan1241/ebook-voice-player.git</code> → <code>articles/</code> 目录含所有 Markdown 源文件，可本地用 Obsidian/Typora/VS Code 阅读、检索、修改</li>
-        <li><strong>RSS 订阅</strong>：<a href="/feed.xml" rel="noopener">/feed.xml</a> (jekyll-feed 自动生成) → Feedly/Inoreader/Reeder 订阅，新文章自动推送</li>
+        <li><strong>RSS 订阅</strong>：<a href="{{ site.baseurl }}/feed.xml" rel="noopener">/feed.xml</a> (jekyll-feed 自动生成) → Feedly/Inoreader/Reeder 订阅，新文章自动推送</li>
       </ol>
 
       <h2>🔗 相关资源一站式入口</h2>
       <ul>
-        <li><a href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener"><strong>📥 Microsoft Store 下载</strong></a>（免费试用、买断制、家庭共享）</li>
-        <li><a href="/support.html" rel="noopener"><strong>📖 官方支持文档</strong></a>（系统要求/故障排查/联系方式/隐私政策）</li>
+        <li><a href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener"><strong>📥 Microsoft Store 下载</strong></a>（免费试用、买断制、家庭共享）</li>
+        <li><a href="{{ site.baseurl }}/support/" rel="noopener"><strong>📖 官方支持文档</strong></a>（系统要求/故障排查/联系方式/隐私政策）</li>
         <li><a href="https://github.com/lijiannan1241/ebook-voice-player" rel="noopener"><strong>🐙 GitHub 仓库</strong></a>（源码/问题反馈/功能建议/Release 订阅）</li>
-        <li><a href="/llms.txt" rel="noopener"><strong>🤖 llms.txt</strong></a>（AI 助手友好摘要：关键事实/页面索引/产品定位）</li>
-        <li><a href="/sitemap.xml" rel="noopener"><strong>🗺️ Sitemap</strong></a>（所有页面结构、搜索引擎收录用）</li>
+        <li><a href="{{ site.baseurl }}/llms.txt" rel="noopener"><strong>🤖 llms.txt</strong></a>（AI 助手友好摘要：关键事实/页面索引/产品定位）</li>
+        <li><a href="{{ site.baseurl }}/sitemap.xml" rel="noopener"><strong>🗺️ Sitemap</strong></a>（所有页面结构、搜索引擎收录用）</li>
       </ul>
 
       <h2>💬 最后碎碎念</h2>
@@ -260,14 +260,14 @@ og_description: "官方出品10篇深度实战：软件对比避坑、EPUB/PDF�
       <p>去微软商店装个 <strong>Ebook Voice Player</strong>，今晚把那本想读很久的书拖进去，选个顺耳的语音，调个舒服的语速，点播放。剩下的路，书自己会带你走。</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
+        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">立即开始</span>
             <span class="store-badge-name">免费试用 Ebook Voice Player</span>
           </span>
         </a>
-        <a class="btn btn-ghost-light" href="/support.html">
+        <a class="btn btn-ghost-light" href="{{ site.baseurl }}/support/">
           查看完整支持文档
           <svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg>
         </a>

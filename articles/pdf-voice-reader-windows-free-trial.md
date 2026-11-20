@@ -3,7 +3,7 @@ layout: default
 title: "PDF语音朗读软件Windows免费试用：论文报告合同听完不费眼"
 description: "针对PDF文档多的科研/职场人群，实测对比Windows平台PDF朗读方案：Ebook Voice Player、Edge、Adobe Reader、SumatraPDF。重点解决扫描版PDF无法朗读、公式代码读不清、长文档定位难三大痛点。"
 lang: zh-Hans
-hreflang_en: "/articles/pdf-voice-reader-windows-free-trial/"
+hreflang_en: "/articles/pdf-voice-reader-windows-free-trial.en/"
 og_title: "PDF语音朗读软件Windows免费试用：论文报告合同听完不费眼"
 og_description: "科研/职场党实测：PDF文档语音朗读避坑指南。扫描版怎么听？公式代码怎么处理？长文档怎么定位？附免费试用方案对比表。"
 ---
@@ -123,7 +123,7 @@ og_description: "科研/职场党实测：PDF文档语音朗读避坑指南。�
       <p>微软商店搜 <strong>Ebook Voice Player</strong>，免费试用功能全开，处理完这批 PDF 再决定买不买断，不花冤枉钱。</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
+        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">免费试用</span>

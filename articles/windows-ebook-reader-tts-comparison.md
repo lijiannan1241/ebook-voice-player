@@ -3,7 +3,7 @@ layout: default
 title: "Windows电子书朗读软件哪个好用？2026年实测对比与避坑指南"
 description: "实测对比Windows平台主流TTS阅读器：Ebook Voice Player、Edge朗读、Balabolka、NaturalReader。从语音质量、格式支持、导出功能、隐私保护四个维度深度评测，帮你避开广告多、需登录、不支持中文的坑。"
 lang: zh-Hans
-hreflang_en: "/articles/windows-ebook-reader-tts-comparison/"
+hreflang_en: "/articles/windows-ebook-reader-tts-comparison.en/"
 og_title: "Windows电子书朗读软件哪个好用？2026实测对比避坑指南"
 og_description: "深度对比4款Windows TTS阅读器，实测语音质量、格式兼容、MP3导出、隐私保护。附避坑清单：广告多、强制登录、中文语音差的软件别下。"
 ---
@@ -108,14 +108,14 @@ og_description: "深度对比4款Windows TTS阅读器，实测语音质量、格
       <p>如果你在Windows上有“把书听完”的刚需——不管是通勤听小说、备考听教材、整理听报告、还是给长辈找个大字体语音同步的看书工具——<strong>Ebook Voice Player 是目前体验最完整、折腾最少、隐私最好的选择</strong>。微软商店搜“Ebook Voice Player”或点下面链接直接跳转，有免费试用，不好用卸载就行，不留痕迹。</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
+        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">立即获取</span>
             <span class="store-badge-name">Microsoft Store</span>
           </span>
         </a>
-        <a class="btn btn-ghost-light" href="/support.html">
+        <a class="btn btn-ghost-light" href="{{ site.baseurl }}/support/">
           查看完整支持文档
           <svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg>
         </a>

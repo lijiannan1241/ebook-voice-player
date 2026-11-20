@@ -103,7 +103,7 @@ og_description: "Official 10 Deep-Dives: Software Comparison, EPUB/PDF→MP3, Vo
 
       <h2>🎯 Quick Start: Three Steps to Core Flow</h2>
       <ol>
-        <li><strong>Install</strong>: Microsoft Store Search <strong>Ebook Voice Player</strong> or <a href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener">Direct Link</a> → Free Trial Full Features</li>
+        <li><strong>Install</strong>: Microsoft Store Search <strong>Ebook Voice Player</strong> or <a href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener">Direct Link</a> → Free Trial Full Features</li>
         <li><strong>Import</strong>: Drag EPUB/PDF/DOCX/TXT/HTML In, or "Add Folder" Batch Library Build</li>
         <li><strong>Listen/Export</strong>: Pick Voice (CN Xiaoxiao/Yunxi/Yunyang/Xiaoyi, EN Aria/Guy/Jenny) → Set Speed → Play / Export MP3 → Phone</li>
       </ol>
@@ -238,16 +238,16 @@ Tip: Star <a href="https://github.com/lijiannan1241/ebook-voice-player" rel="noo
         <li><strong>Save Page</strong>: Browser "Save As" → Complete Webpage → Offline Version with Images/CSS/JS</li>
         <li><strong>Print PDF</strong>: Ctrl+P → Save as PDF → Ad-Free Clean Version. Mobile/E-Ink Friendly</li>
         <li><strong>Git Clone</strong>: <code>git clone https://github.com/lijiannan1241/ebook-voice-player.git</code> → <code>articles/</code> Dir Has All Markdown Sources. Local Obsidian/Typora/VS Code Read/Search/Edit</li>
-        <li><strong>RSS Subscribe</strong>: <a href="/feed.xml" rel="noopener">/feed.xml</a> (jekyll-feed Auto) → Feedly/Inoreader/Reeder → New Articles Auto-Push</li>
+        <li><strong>RSS Subscribe</strong>: <a href="{{ site.baseurl }}/feed.xml" rel="noopener">/feed.xml</a> (jekyll-feed Auto) → Feedly/Inoreader/Reeder → New Articles Auto-Push</li>
       </ol>
 
       <h2>🔗 Related Resources Hub</h2>
       <ul>
-        <li><a href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener"><strong>📥 Microsoft Store Download</strong></a> (Free Trial, One-Time Purchase, Family Sharing)</li>
-        <li><a href="/support.html" rel="noopener"><strong>📖 Official Support Docs</strong></a> (System Reqs/Troubleshooting/Contact/Privacy Policy)</li>
+        <li><a href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener"><strong>📥 Microsoft Store Download</strong></a> (Free Trial, One-Time Purchase, Family Sharing)</li>
+        <li><a href="{{ site.baseurl }}/support/" rel="noopener"><strong>📖 Official Support Docs</strong></a> (System Reqs/Troubleshooting/Contact/Privacy Policy)</li>
         <li><a href="https://github.com/lijiannan1241/ebook-voice-player" rel="noopener"><strong>🐙 GitHub Repository</strong></a> (Source/Issues/Feature Requests/Release Watch)</li>
-        <li><a href="/llms.txt" rel="noopener"><strong>🤖 llms.txt</strong></a> (AI-Assistant Friendly Summary: Key Facts/Page Index/Product Positioning)</li>
-        <li><a href="/sitemap.xml" rel="noopener"><strong>🗺️ Sitemap</strong></a> (All Pages Structure, For Search Engines)</li>
+        <li><a href="{{ site.baseurl }}/llms.txt" rel="noopener"><strong>🤖 llms.txt</strong></a> (AI-Assistant Friendly Summary: Key Facts/Page Index/Product Positioning)</li>
+        <li><a href="{{ site.baseurl }}/sitemap.xml" rel="noopener"><strong>🗺️ Sitemap</strong></a> (All Pages Structure, For Search Engines)</li>
       </ul>
 
       <h2>💬 Closing Thoughts</h2>
@@ -257,14 +257,14 @@ Tip: Star <a href="https://github.com/lijiannan1241/ebook-voice-player" rel="noo
       <p>Go Microsoft Store Grab <strong>Ebook Voice Player</strong>. Tonight Drag That Book You've Been Meaning to Read. Pick a Voice You Like. Set a Comfy Speed. Hit Play. The Rest of the Journey, the Book Will Carry You.</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="Get Ebook Voice Player from Microsoft Store">
+        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="Get Ebook Voice Player from Microsoft Store">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">Start Now</span>
             <span class="store-badge-name">Free Trial Ebook Voice Player</span>
           </span>
         </a>
-        <a class="btn btn-ghost-light" href="/support.html">
+        <a class="btn btn-ghost-light" href="{{ site.baseurl }}/support/">
           View Full Support Docs
           <svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg>
         </a>

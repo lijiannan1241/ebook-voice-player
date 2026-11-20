@@ -3,7 +3,7 @@ layout: default
 title: "如何把EPUB转成MP3在手机听？零成本离线听书全流程实操"
 description: "手把手教你用Ebook Voice Player把EPUB电子书转成MP3：章节拆分、语速调节、静音裁剪、手机传输全流程。无需在线转换网站、无隐私泄露、无广告水印，适合通勤、运动、睡前离线听书。"
 lang: zh-Hans
-hreflang_en: "/articles/epub-to-mp3-offline-listening/"
+hreflang_en: "/articles/epub-to-mp3-offline-listening.en/"
 og_title: "EPUB转MP3离线听书全流程：零成本、护隐私、无广告"
 og_description: "详细图文教程：用Ebook Voice Player把EPUB按章节导出MP3，支持语速调节、静音裁剪，手机传输即听。适合通勤党、跑步党、护眼党。"
 ---
@@ -31,7 +31,7 @@ og_description: "详细图文教程：用Ebook Voice Player把EPUB按章节导�
       <h2>准备工作（5分钟搞定）</h2>
       <ul>
         <li>Windows 10/11 电脑一台</li>
-        <li>微软商店安装 <strong>Ebook Voice Player</strong>（搜名字或 <a href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener">直链</a>）</li>
+        <li>微软商店安装 <strong>Ebook Voice Player</strong>（搜名字或 <a href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener">直链</a>）</li>
         <li>待转换的 EPUB 文件（带目录结构的效果最好）</li>
         <li>手机 + 数据线或微信/Telegram/网盘传输</li>
       </ul>
@@ -129,7 +129,7 @@ og_description: "详细图文教程：用Ebook Voice Player把EPUB按章节导�
       <p>全程本地操作，书籍不上传，无广告无水印，想听多久听多久。今晚下班回家试一次，明早通勤就能听上了。</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
+        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">免费试用</span>

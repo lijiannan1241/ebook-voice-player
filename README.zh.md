@@ -4,7 +4,7 @@
 > **229 种语音、56 种语言与地区口音；自动分章、边听边高亮、整本导出 MP3。**  
 > **¥7 买断，无订阅、无广告；Windows 10/11 装好即用。**
 
-[**在 Microsoft Store 获取（含免费试用）→**](https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS)
+[**在 Microsoft Store 获取（含免费试用）→**](https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN)
 
 `Microsoft Store 已上架` · `Windows 10/11` · `x64` · `约 194 MB` · `229 种语音` · `56 种语言与地区口音` · `中国区 ¥7，含免费试用`
 
@@ -134,7 +134,7 @@
 
 ## 3 分钟上手
 
-1. 从 [Microsoft Store](https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS) 安装并打开。
+1. 从 [Microsoft Store](https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN) 安装并打开。
 2. `文件 → 打开文件` 选择一本书；或 `文件 → 打开目录书库` 把整个文件夹当一本书。
 3. 在右侧语音面板搜索/试听，选中喜欢的声音。
 4. 点击正文任意段落，或按底部 `▶` 开始朗读；`Space` 暂停/继续。
@@ -176,7 +176,7 @@
 
 ## 下载与价格
 
-[**Microsoft Store：Ebook Voice Player - Text To Speech Ebook Reader →**](https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS)
+[**Microsoft Store：Ebook Voice Player - Text To Speech Ebook Reader →**](https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN)
 
 - 中国区显示 **¥7**，含**免费试用**；其他地区价格以 Store 页面为准。
 - 系统要求：Windows 10 版本 17763 或更高 / Windows 11，x64。
@@ -186,4 +186,4 @@
 
 > **你不需要再等一个“有空再看”的晚上。**  
 > 现在安装，把下一本书变成下一段通勤、家务或睡前的陪伴。  
-> [**获取 Ebook Voice Player →**](https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS)
+> [**获取 Ebook Voice Player →**](https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN)

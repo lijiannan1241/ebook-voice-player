@@ -3,7 +3,7 @@ layout: default
 title: "英语学习自制听力材料：TXT/EPUB原版书转MP3，语速可调、段落可复听"
 description: "英语学习者实测：用Ebook Voice Player把英文原版电子书(EPUB/TXT/PDF)转成可调语速MP3。支持Aria/Guy/Jenny等英语神经网络语音，0.5-3.0倍语速自由调，段落高亮跟读、单句循环、生词标注、批量导出练听力。"
 lang: zh-Hans
-hreflang_en: "/articles/english-learning-custom-listening-materials/"
+hreflang_en: "/articles/english-learning-custom-listening-materials.en/"
 og_title: "英语学习自制听力：原版书转MP3语速可调段落可复读"
 og_description: "告别买不到合适听力材料：英文原版书一键转MP3，Aria/Guy/Jenny原生英语语音，0.5-3.0倍语速，段落高亮跟读、单句循环、批量导出。雅思托福GRE自制教材神器。"
 ---
@@ -157,7 +157,7 @@ og_description: "告别买不到合适听力材料：英文原版书一键转MP3
       <p>微软商店搜 <strong>Ebook Voice Player</strong>，免费试用全功能，今晚把那本想读很久的英文原版书导进去，明早通勤就能开始精听了。</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
+        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">免费试用</span>

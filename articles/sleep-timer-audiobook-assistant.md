@@ -3,7 +3,7 @@ layout: default
 title: "睡前听书定时关闭神器：Windows端睡眠定时器+进度保存，醒来接着听不丢章节"
 description: "失眠党/睡前听书党实测：Ebook Voice Player内置睡眠定时器（5-120分钟/章节数/书签处）、自动淡出停止、进度精准保存、醒来自动恢复播放位置。配合大字护眼模式、慢速温柔语音（晓伊/晓琪）、导出MP3传手机/老人机，打造完美助眠听书体验。"
 lang: zh-Hans
-hreflang_en: "/articles/sleep-timer-audiobook-assistant/"
+hreflang_en: "/articles/sleep-timer-audiobook-assistant.en/"
 og_title: "睡前听书定时关闭神器：睡眠定时器+进度保存，醒来接着听"
 og_description: "失眠党必备：睡眠定时器5-120分钟/章节数/书签处自动停止、淡出不惊醒、进度精准保存、醒来自动恢复。配合慢速温柔语音、护眼模式、MP3导出离线听。免费试用无广告。"
 ---
@@ -150,7 +150,7 @@ og_description: "失眠党必备：睡眠定时器5-120分钟/章节数/书签�
       <p>微软商店装 <strong>Ebook Voice Player</strong>，今晚躺床上试一次：打开书 → 点月亮图标 → 选 30 分钟 → 启动 → 闭眼。醒来打开软件/手机，进度就在昨晚停下的地方。不用担心「听到哪了」「会不会放到天亮」「醒来找不着章节」。睡前听书自由，就这三步。</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
+        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">免费试用</span>

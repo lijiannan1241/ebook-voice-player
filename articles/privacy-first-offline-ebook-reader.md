@@ -3,7 +3,7 @@ layout: default
 title: "本地电子书管理朗读器无广告无账号：隐私优先，书籍不出设备，只听不传"
 description: "厌倦了上传书籍到云端、强制登录、广告推送、数据挖掘？Ebook Voice Player：纯本地解析 EPUB/PDF/DOCX/TXT/HTML，仅合成语音时发送选中文本到微软 Edge TTS，书籍/书签/笔记/进度全留本地。无账号体系、无遥测上报、无启动广告、卸载干净无残留。附隐私对比表与数据流向图解。"
 lang: zh-Hans
-hreflang_en: "/articles/privacy-first-offline-ebook-reader/"
+hreflang_en: "/articles/privacy-first-offline-ebook-reader.en/"
 og_title: "本地电子书管理朗读器无广告无账号：隐私优先，书籍不出设备"
 og_description: "隐私党实测：书籍本地解析、仅合成文本上云、无账号无遥测无广告。对比主流阅读APP隐私政策，附数据流向图解。保护版权书、内部资料、个人笔记不泄露。"
 ---
@@ -188,7 +188,7 @@ og_description: "隐私党实测：书籍本地解析、仅合成文本上云、
       <p>微软商店搜 <strong>Ebook Voice Player</strong>，免费试用全功能。不放心？装上、断网、导入本地书、阅读、加书签、导出笔记、卸载、查文件夹——全程无网络、无账号、无广告、无残留。隐私不妥协，听书不将就。</p>
 
       <div class="cta-actions" style="margin-top: 2rem;">
-        <a class="store-badge" href="https://apps.microsoft.com/store/detail/9NLHLN1SJNBR?cid=DevShareMCLPCS" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
+        <a class="store-badge" href="https://apps.microsoft.com/detail/9nlhln1sjnbr?cid=DevShareMCLPCS&hl=zh-CN&gl=CN" rel="noopener" aria-label="从 Microsoft Store 获取 Ebook Voice Player">
           <svg class="store-badge-icon" aria-hidden="true"><use href="#i-store"/></svg>
           <span class="store-badge-text">
             <span class="store-badge-kicker">免费试用</span>
